@@ -1,7 +1,7 @@
 This section of SOCI 3440 is an introduction to **quantitative research methods**, from planning an analysis to sharing the final results. Following the workflow from Rohan Alexander's (2023) *Telling Stories with Data*, you will learn how to:
 
 ::: {.aside}
-![Rohan Alexander's (2023) *Telling Stories with Data* is required reading in this course. You can purchase a print copy or [read it online for free](https://tellingstorieswithdata.com).](../media/telling-stories.png){width=100%}
+![Rohan Alexander's (2023) *Telling Stories with Data* is required reading in this course. You can purchase a print copy or [read it online for free](https://tellingstorieswithdata.com).](https://www.johnmclevey.com/quantitative-research-methods/media/telling-stories.png){width=100%}
 :::
 
 1. **plan** an analysis and sketch your data and endpoint 

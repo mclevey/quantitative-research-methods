@@ -1,87 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/index.html</loc>
-    <lastmod>2024-10-25T13:09:37.144Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/code-of-conduct.html</loc>
-    <lastmod>2024-10-24T09:36:57.628Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-01.html</loc>
-    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/syllabus/syllabus.html</loc>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/syllabus/syllabus.html</loc>
     <lastmod>2024-10-22T11:31:01.257Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/labs/labs.html</loc>
-    <lastmod>2024-10-25T12:19:49.372Z</lastmod>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/workflow.html</loc>
+    <lastmod>2024-10-25T13:45:56.373Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-02.html</loc>
-    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-11.html</loc>
+    <lastmod>2024-10-21T20:43:40.672Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/accounts-keys.html</loc>
-    <lastmod>2024-10-21T12:44:08.015Z</lastmod>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-09.html</loc>
+    <lastmod>2024-10-21T20:43:40.672Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-12.html</loc>
-    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-07.html</loc>
+    <lastmod>2024-10-21T20:43:40.672Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-10.html</loc>
-    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-05.html</loc>
+    <lastmod>2024-10-21T20:43:40.672Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-08.html</loc>
-    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-03.html</loc>
+    <lastmod>2024-10-21T20:43:40.672Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-06.html</loc>
-    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-01.html</loc>
+    <lastmod>2024-10-22T10:03:55.185Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-04.html</loc>
-    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-03.html</loc>
-    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-05.html</loc>
-    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-07.html</loc>
-    <lastmod>2024-10-25T12:55:30.726Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-09.html</loc>
-    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/lecture-11.html</loc>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-11.html</loc>
     <lastmod>2024-10-25T12:55:30.718Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/module-01.html</loc>
-    <lastmod>2024-10-25T12:55:30.797Z</lastmod>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-09.html</loc>
+    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/workflow.html</loc>
-    <lastmod>2024-10-25T13:09:10.417Z</lastmod>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-07.html</loc>
+    <lastmod>2024-10-25T12:55:30.726Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/key-concepts.html</loc>
-    <lastmod>2024-10-25T13:15:09.170Z</lastmod>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-05.html</loc>
+    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
   </url>
   <url>
-    <loc>https://www.johnmclevey.com/quant-methods-3040/pages/resources.html</loc>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-03.html</loc>
+    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-01.html</loc>
+    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/resources.html</loc>
     <lastmod>2024-10-21T12:24:02.086Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/code-of-conduct.html</loc>
+    <lastmod>2024-10-24T09:36:57.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/labs/labs.html</loc>
+    <lastmod>2024-10-25T12:19:49.372Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/accounts-keys.html</loc>
+    <lastmod>2024-10-21T12:44:08.015Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/computing.html</loc>
+    <lastmod>2024-10-22T10:06:35.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/key-concepts.html</loc>
+    <lastmod>2024-10-25T13:45:55.437Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-02.html</loc>
+    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-04.html</loc>
+    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-06.html</loc>
+    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-08.html</loc>
+    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-10.html</loc>
+    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/pages/lecture-12.html</loc>
+    <lastmod>2024-10-25T12:55:30.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-02.html</loc>
+    <lastmod>2024-10-22T11:22:39.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-04.html</loc>
+    <lastmod>2024-10-21T20:43:40.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-06.html</loc>
+    <lastmod>2024-10-21T20:43:40.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-08.html</loc>
+    <lastmod>2024-10-21T20:43:40.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-10.html</loc>
+    <lastmod>2024-10-21T20:43:40.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/slides/slides-week-12.html</loc>
+    <lastmod>2024-10-21T20:43:40.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.johnmclevey.com/quantitative-research-methods/index.html</loc>
+    <lastmod>2024-10-25T13:45:55.931Z</lastmod>
   </url>
 </urlset>

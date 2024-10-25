@@ -1,17 +1,262 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Quantitative Research Methods",
+    "objectID": "syllabus/syllabus.html",
+    "href": "syllabus/syllabus.html",
+    "title": "SOCI 3040Quantitative Research Methods",
     "section": "",
-    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA"
+    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA\n\n\n\nSOCI 3040, Quantitative Research Methods, will familiarize students with the procedures for understanding and conducting quantitative social science research. It will introduce students to the quantitative research process, hypothesis development and testing, and the application of appropriate tools for analyzing quantitative data. All sections of this course count towards the HSS Quantitative Reasoning Requirement (see mun.ca/hss/qr).\n(PR: SOCI 1000 or the former SOCI 2000)\n\nThis section of SOCI 3440 is an introduction to quantitative research methods, from planning an analysis to sharing the final results. Following the workflow from Rohan Alexander’s (2023) Telling Stories with Data, you will learn how to:\n\n\n\n\n\nRohan Alexander’s (2023) Telling Stories with Data is required reading in this course. You can purchase a print copy or read it online for free.\n\n\n\nplan an analysis and sketch your data and endpoint\nsimulate some data to “force you into the details”\nacquire, assess, and prepare empirical data for analysis\nexplore and analyze data by creating visualizations and fitting models\nshare the results of your work with the world!\n\nYou will use this workflow in the context of learning foundational quantitative research skills, including conducting exploratory data analyses and fitting, assessing, and interpreting linear models, generalized linear models, and multilevel models. Reproducibility and research ethics are considered throughout the workflow, and the entire course.\n\n\n\n\n\n\nR and Quarto 😁 – No Experience Necessary\n\n\n\nYou will learn to use R (a free/open source programming language and environment for statistical computing and graphics) and Quarto (a free/open source publishing system for creating dynamic and reproducible manuscripts, reports, websites, and presentations) in this course. Note that I assume no prior experience with R or Quarto. Everything you need to know about both will be introduced in the course. While some prior programming experience is an asset, it is by no means necessary.\n\n\n\n\nBy the end of this course, students will be able to:\n\nExplain key principles, concepts, and methods in quantitative research.\nFormulate quantitative research questions, outline analysis plans, and sketch data analysis endpoints.\nObtain datasets from common sources (e.g., data repositories, APIs).\nProcess, store, and share data.\nConduct purposeful exploratory data analyses.\nFit, assess, and interpret linear models, generalized linear models, and multilevel models.\nUse R and Quarto (properly) to make your quantitative research fully reproducible.\nUnderstand the essential role and implications of ethics in quantitative research.\n🔥 Tell compelling and credible stories with data.\n\nMore specific learning objectives can be found in the lecture and lab materials for each class meeting."
   },
   {
-    "objectID": "index.html#about-the-instructor",
-    "href": "index.html#about-the-instructor",
-    "title": "Quantitative Research Methods",
-    "section": "About the Instructor",
-    "text": "About the Instructor\nJohn McLevey (he/him) Pronounced like mic-Leave-ee"
+    "objectID": "syllabus/syllabus.html#learning-objectives",
+    "href": "syllabus/syllabus.html#learning-objectives",
+    "title": "SOCI 3040Quantitative Research Methods",
+    "section": "",
+    "text": "By the end of this course, students will be able to:\n\nExplain key principles, concepts, and methods in quantitative research.\nFormulate quantitative research questions, outline analysis plans, and sketch data analysis endpoints.\nObtain datasets from common sources (e.g., data repositories, APIs).\nProcess, store, and share data.\nConduct purposeful exploratory data analyses.\nFit, assess, and interpret linear models, generalized linear models, and multilevel models.\nUse R and Quarto (properly) to make your quantitative research fully reproducible.\nUnderstand the essential role and implications of ethics in quantitative research.\n🔥 Tell compelling and credible stories with data.\n\nMore specific learning objectives can be found in the lecture and lab materials for each class meeting."
+  },
+  {
+    "objectID": "syllabus/syllabus.html#accounts-and-api-keys",
+    "href": "syllabus/syllabus.html#accounts-and-api-keys",
+    "title": "SOCI 3040Quantitative Research Methods",
+    "section": "Accounts and API Keys",
+    "text": "Accounts and API Keys\nYou’ll need to sign up for a free GitHub account. You’ll also need to request free API Keys from a variety of websites and services throughout the course. I will provide detailed instructions in class and in the lab notebook each time."
+  },
+  {
+    "objectID": "syllabus/syllabus.html#course-policies",
+    "href": "syllabus/syllabus.html#course-policies",
+    "title": "SOCI 3040Quantitative Research Methods",
+    "section": "Course Policies",
+    "text": "Course Policies"
+  },
+  {
+    "objectID": "syllabus/syllabus.html#department-and-faculty-policies",
+    "href": "syllabus/syllabus.html#department-and-faculty-policies",
+    "title": "SOCI 3040Quantitative Research Methods",
+    "section": "Department and Faculty Policies",
+    "text": "Department and Faculty Policies"
+  },
+  {
+    "objectID": "syllabus/syllabus.html#university-policies",
+    "href": "syllabus/syllabus.html#university-policies",
+    "title": "SOCI 3040Quantitative Research Methods",
+    "section": "University Policies",
+    "text": "University Policies"
+  },
+  {
+    "objectID": "pages/workflow.html",
+    "href": "pages/workflow.html",
+    "title": "Workflow",
+    "section": "",
+    "text": "This course is organized around the workflow Rohan Alexander introduces in Telling Stories with Data.\n\n\n\n\n\nflowchart LR\n    p[[Plan]]\n    sim[[Simulate]]\n    a[[Acquire]]\n    e[[Explore / Analyze]]\n    s[[Share]]\n\n    p --&gt; sim --&gt; a --&gt; e --&gt; s",
+    "crumbs": [
+      "Syllabus",
+      "**The 'Whole Game'**",
+      "Workflow"
+    ]
+  },
+  {
+    "objectID": "slides/slides-week-11.html#this-week",
+    "href": "slides/slides-week-11.html#this-week",
+    "title": "Generalized Linear Models",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/slides-week-09.html#this-week",
+    "href": "slides/slides-week-09.html#this-week",
+    "title": "Exploratory Data Analysis",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/slides-week-07.html#this-week",
+    "href": "slides/slides-week-07.html#this-week",
+    "title": "Experiments and Surveys",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/slides-week-05.html#this-week",
+    "href": "slides/slides-week-05.html#this-week",
+    "title": "Measurement and Sampling",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/slides-week-03.html#this-week",
+    "href": "slides/slides-week-03.html#this-week",
+    "title": "Reproducible Workflows",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/slides-week-01.html#this-week",
+    "href": "slides/slides-week-01.html#this-week",
+    "title": "Telling Stories with Data",
+    "section": "this week…",
+    "text": "this week…\n\nCourse Overview\nTelling Stories with Data\n(Lab) Setup\n\nAlexander (2023)"
+  },
+  {
+    "objectID": "pages/lecture-11.html",
+    "href": "pages/lecture-11.html",
+    "title": "M11 Generalized Linear Models",
+    "section": "",
+    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 13 Generalized linear models\n\n\n\nStart the lab notebook\nModule 11 Lab\n\n\n\nSkim the lecture slides\nModule 11 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
+  },
+  {
+    "objectID": "pages/lecture-11.html#key-concepts",
+    "href": "pages/lecture-11.html#key-concepts",
+    "title": "M11 Generalized Linear Models",
+    "section": "Key Concepts",
+    "text": "Key Concepts\nComing soon…"
+  },
+  {
+    "objectID": "pages/lecture-11.html#data-computing-notes",
+    "href": "pages/lecture-11.html#data-computing-notes",
+    "title": "M11 Generalized Linear Models",
+    "section": "Data & Computing Notes",
+    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
+  },
+  {
+    "objectID": "pages/lecture-09.html",
+    "href": "pages/lecture-09.html",
+    "title": "M09 Exploratory Data Analysis",
+    "section": "",
+    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 11 Exploratory data analysis\n\n\n\nStart the lab notebook\nModule 9 Lab\n\n\n\nSkim the lecture slides\nModule 9 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
+  },
+  {
+    "objectID": "pages/lecture-09.html#key-concepts",
+    "href": "pages/lecture-09.html#key-concepts",
+    "title": "M09 Exploratory Data Analysis",
+    "section": "Key Concepts",
+    "text": "Key Concepts\nComing soon…"
+  },
+  {
+    "objectID": "pages/lecture-09.html#data-computing-notes",
+    "href": "pages/lecture-09.html#data-computing-notes",
+    "title": "M09 Exploratory Data Analysis",
+    "section": "Data & Computing Notes",
+    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
+  },
+  {
+    "objectID": "pages/lecture-07.html",
+    "href": "pages/lecture-07.html",
+    "title": "M07 Experiments and Surveys",
+    "section": "",
+    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 8 Experiments and surveys\n\n\n\nStart the lab notebook\nModule 7 Lab\n\n\n\nSkim the lecture slides\nModule 7 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
+  },
+  {
+    "objectID": "pages/lecture-07.html#key-concepts",
+    "href": "pages/lecture-07.html#key-concepts",
+    "title": "M07 Experiments and Surveys",
+    "section": "Key Concepts",
+    "text": "Key Concepts\nComing soon…"
+  },
+  {
+    "objectID": "pages/lecture-07.html#data-computing-notes",
+    "href": "pages/lecture-07.html#data-computing-notes",
+    "title": "M07 Experiments and Surveys",
+    "section": "Data & Computing Notes",
+    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
+  },
+  {
+    "objectID": "pages/lecture-05.html",
+    "href": "pages/lecture-05.html",
+    "title": "M05 Measurement and Sampling",
+    "section": "",
+    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 6 Measurement, censuses, and sampling\n\n\n\nStart the lab notebook\nModule 5 Lab\n\n\n\nSkim the lecture slides\nModule 5 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
+  },
+  {
+    "objectID": "pages/lecture-05.html#key-concepts",
+    "href": "pages/lecture-05.html#key-concepts",
+    "title": "M05 Measurement and Sampling",
+    "section": "Key Concepts",
+    "text": "Key Concepts\nComing soon…"
+  },
+  {
+    "objectID": "pages/lecture-05.html#data-computing-notes",
+    "href": "pages/lecture-05.html#data-computing-notes",
+    "title": "M05 Measurement and Sampling",
+    "section": "Data & Computing Notes",
+    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
+  },
+  {
+    "objectID": "pages/lecture-03.html",
+    "href": "pages/lecture-03.html",
+    "title": "M03 Reproducible Workflows",
+    "section": "",
+    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 3 Reproducible workflows\n\n\n\nStart the lab notebook\nModule 3 Lab\n\n\n\nSkim the lecture slides\nModule 3 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…",
+    "crumbs": [
+      "Syllabus",
+      "**SOCI 3040, Day by Day**",
+      "M03 Reproducible Workflows"
+    ]
+  },
+  {
+    "objectID": "pages/lecture-03.html#key-concepts",
+    "href": "pages/lecture-03.html#key-concepts",
+    "title": "M03 Reproducible Workflows",
+    "section": "Key Concepts",
+    "text": "Key Concepts\nComing soon…",
+    "crumbs": [
+      "Syllabus",
+      "**SOCI 3040, Day by Day**",
+      "M03 Reproducible Workflows"
+    ]
+  },
+  {
+    "objectID": "pages/lecture-03.html#data-computing-notes",
+    "href": "pages/lecture-03.html#data-computing-notes",
+    "title": "M03 Reproducible Workflows",
+    "section": "Data & Computing Notes",
+    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…",
+    "crumbs": [
+      "Syllabus",
+      "**SOCI 3040, Day by Day**",
+      "M03 Reproducible Workflows"
+    ]
+  },
+  {
+    "objectID": "pages/lecture-01.html",
+    "href": "pages/lecture-01.html",
+    "title": "M01 Telling Stories with Data",
+    "section": "",
+    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 1 Telling Stories with Data\n\n\n\nStart the lab notebook\nModule 1 Lab\n\n\n\nSkim the lecture slides\nModule 1 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…",
+    "crumbs": [
+      "Syllabus",
+      "**SOCI 3040, Day by Day**",
+      "M01 Telling Stories with Data"
+    ]
+  },
+  {
+    "objectID": "pages/lecture-01.html#key-concepts",
+    "href": "pages/lecture-01.html#key-concepts",
+    "title": "M01 Telling Stories with Data",
+    "section": "Key Concepts",
+    "text": "Key Concepts\nComing soon…",
+    "crumbs": [
+      "Syllabus",
+      "**SOCI 3040, Day by Day**",
+      "M01 Telling Stories with Data"
+    ]
+  },
+  {
+    "objectID": "pages/lecture-01.html#data-computing-notes",
+    "href": "pages/lecture-01.html#data-computing-notes",
+    "title": "M01 Telling Stories with Data",
+    "section": "Data & Computing Notes",
+    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…",
+    "crumbs": [
+      "Syllabus",
+      "**SOCI 3040, Day by Day**",
+      "M01 Telling Stories with Data"
+    ]
+  },
+  {
+    "objectID": "pages/resources.html",
+    "href": "pages/resources.html",
+    "title": "Additional Resources",
+    "section": "",
+    "text": "Additional Resources\nComing soon…"
   },
   {
     "objectID": "pages/code-of-conduct.html#introduction",
@@ -56,87 +301,23 @@
     "text": "Attribution\nDerived from the DSCI 100 Code of Conduct, which was derived from the Carpentries Code of Conduct."
   },
   {
-    "objectID": "pages/lecture-01.html",
-    "href": "pages/lecture-01.html",
-    "title": "M01 Telling Stories with Data",
-    "section": "",
-    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 1 Telling Stories with Data\n\n\n\nStart the lab notebook\nModule 1 Lab\n\n\n\nSkim the lecture slides\nModule 1 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…",
-    "crumbs": [
-      "Syllabus",
-      "**SOCI 3040, Day by Day**",
-      "M01 Telling Stories with Data"
-    ]
-  },
-  {
-    "objectID": "pages/lecture-01.html#key-concepts",
-    "href": "pages/lecture-01.html#key-concepts",
-    "title": "M01 Telling Stories with Data",
-    "section": "Key Concepts",
-    "text": "Key Concepts\nComing soon…",
-    "crumbs": [
-      "Syllabus",
-      "**SOCI 3040, Day by Day**",
-      "M01 Telling Stories with Data"
-    ]
-  },
-  {
-    "objectID": "pages/lecture-01.html#data-computing-notes",
-    "href": "pages/lecture-01.html#data-computing-notes",
-    "title": "M01 Telling Stories with Data",
-    "section": "Data & Computing Notes",
-    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…",
-    "crumbs": [
-      "Syllabus",
-      "**SOCI 3040, Day by Day**",
-      "M01 Telling Stories with Data"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus.html",
-    "href": "syllabus/syllabus.html",
-    "title": "SOCI 3040Quantitative Research Methods",
-    "section": "",
-    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA\n\n\n\nSOCI 3040, Quantitative Research Methods, will familiarize students with the procedures for understanding and conducting quantitative social science research. It will introduce students to the quantitative research process, hypothesis development and testing, and the application of appropriate tools for analyzing quantitative data. All sections of this course count towards the HSS Quantitative Reasoning Requirement (see mun.ca/hss/qr).\n(PR: SOCI 1000 or the former SOCI 2000)\n\nThis section of SOCI 3440 is an introduction to quantitative research methods, from planning an analysis to sharing the final results. Following the workflow from Rohan Alexander’s (2023) Telling Stories with Data, you will learn how to:\n\n\n\n\n\nRohan Alexander’s (2023) Telling Stories with Data is required reading in this course. You can purchase a print copy or read it online for free.\n\n\n\nplan an analysis and sketch your data and endpoint\nsimulate some data to “force you into the details”\nacquire, assess, and prepare empirical data for analysis\nexplore and analyze data by creating visualizations and fitting models\nshare the results of your work with the world!\n\nYou will use this workflow in the context of learning foundational quantitative research skills, including conducting exploratory data analyses and fitting, assessing, and interpreting linear models, generalized linear models, and multilevel models. Reproducibility and research ethics are considered throughout the workflow, and the entire course.\n\n\n\n\n\n\nR and Quarto 😁 – No Experience Necessary\n\n\n\nYou will learn to use R (a free/open source programming language and environment for statistical computing and graphics) and Quarto (a free/open source publishing system for creating dynamic and reproducible manuscripts, reports, websites, and presentations) in this course. Note that I assume no prior experience with R or Quarto. Everything you need to know about both will be introduced in the course. While some prior programming experience is an asset, it is by no means necessary.\n\n\n\n\nBy the end of this course, students will be able to:\n\nExplain key principles, concepts, and methods in quantitative research.\nFormulate quantitative research questions, outline analysis plans, and sketch data analysis endpoints.\nObtain datasets from common sources (e.g., data repositories, APIs).\nProcess, store, and share data.\nConduct purposeful exploratory data analyses.\nFit, assess, and interpret linear models, generalized linear models, and multilevel models.\nUse R and Quarto (properly) to make your quantitative research fully reproducible.\nUnderstand the essential role and implications of ethics in quantitative research.\n🔥 Tell compelling and credible stories with data.\n\nMore specific learning objectives can be found in the lecture and lab materials for each class meeting."
-  },
-  {
-    "objectID": "syllabus/syllabus.html#learning-objectives",
-    "href": "syllabus/syllabus.html#learning-objectives",
-    "title": "SOCI 3040Quantitative Research Methods",
-    "section": "",
-    "text": "By the end of this course, students will be able to:\n\nExplain key principles, concepts, and methods in quantitative research.\nFormulate quantitative research questions, outline analysis plans, and sketch data analysis endpoints.\nObtain datasets from common sources (e.g., data repositories, APIs).\nProcess, store, and share data.\nConduct purposeful exploratory data analyses.\nFit, assess, and interpret linear models, generalized linear models, and multilevel models.\nUse R and Quarto (properly) to make your quantitative research fully reproducible.\nUnderstand the essential role and implications of ethics in quantitative research.\n🔥 Tell compelling and credible stories with data.\n\nMore specific learning objectives can be found in the lecture and lab materials for each class meeting."
-  },
-  {
-    "objectID": "syllabus/syllabus.html#accounts-and-api-keys",
-    "href": "syllabus/syllabus.html#accounts-and-api-keys",
-    "title": "SOCI 3040Quantitative Research Methods",
-    "section": "Accounts and API Keys",
-    "text": "Accounts and API Keys\nYou’ll need to sign up for a free GitHub account. You’ll also need to request free API Keys from a variety of websites and services throughout the course. I will provide detailed instructions in class and in the lab notebook each time."
-  },
-  {
-    "objectID": "syllabus/syllabus.html#course-policies",
-    "href": "syllabus/syllabus.html#course-policies",
-    "title": "SOCI 3040Quantitative Research Methods",
-    "section": "Course Policies",
-    "text": "Course Policies"
-  },
-  {
-    "objectID": "syllabus/syllabus.html#department-and-faculty-policies",
-    "href": "syllabus/syllabus.html#department-and-faculty-policies",
-    "title": "SOCI 3040Quantitative Research Methods",
-    "section": "Department and Faculty Policies",
-    "text": "Department and Faculty Policies"
-  },
-  {
-    "objectID": "syllabus/syllabus.html#university-policies",
-    "href": "syllabus/syllabus.html#university-policies",
-    "title": "SOCI 3040Quantitative Research Methods",
-    "section": "University Policies",
-    "text": "University Policies"
-  },
-  {
     "objectID": "labs/labs.html",
     "href": "labs/labs.html",
     "title": "Coming soon…",
+    "section": "",
+    "text": "Coming soon…"
+  },
+  {
+    "objectID": "pages/accounts-keys.html",
+    "href": "pages/accounts-keys.html",
+    "title": "Accounts and Keys",
+    "section": "",
+    "text": "Coming soon…"
+  },
+  {
+    "objectID": "pages/accounts-keys.html#api-keys-to-request",
+    "href": "pages/accounts-keys.html#api-keys-to-request",
+    "title": "Accounts and Keys",
     "section": "",
     "text": "Coming soon…"
   },
@@ -177,87 +358,23 @@
     ]
   },
   {
-    "objectID": "pages/accounts-keys.html",
-    "href": "pages/accounts-keys.html",
-    "title": "Accounts and Keys",
+    "objectID": "pages/lecture-04.html",
+    "href": "pages/lecture-04.html",
+    "title": "M04 Communication",
     "section": "",
-    "text": "Coming soon…",
-    "crumbs": [
-      "Syllabus",
-      "Accounts and Keys"
-    ]
+    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 4 Writing research\n\n\n\n\nCh. 5 Graphs, tables, and maps\n\n\n\nStart the lab notebook\nModule 4 Lab\n\n\n\nSkim the lecture slides\nModule 4 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
   },
   {
-    "objectID": "pages/accounts-keys.html#api-keys-to-request",
-    "href": "pages/accounts-keys.html#api-keys-to-request",
-    "title": "Accounts and Keys",
-    "section": "",
-    "text": "Coming soon…",
-    "crumbs": [
-      "Syllabus",
-      "Accounts and Keys"
-    ]
-  },
-  {
-    "objectID": "pages/lecture-12.html",
-    "href": "pages/lecture-12.html",
-    "title": "M12 Causality + Multilevel Regression with Post-stratification",
-    "section": "",
-    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 15 Causality from observational data\n\n\n\n\nCh. 16 Multilevel regression with post-stratification\n\n\n\nStart the lab notebook\nModule 12 Lab\n\n\n\nSkim the lecture slides\nModule 12 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
-  },
-  {
-    "objectID": "pages/lecture-12.html#key-concepts",
-    "href": "pages/lecture-12.html#key-concepts",
-    "title": "M12 Causality + Multilevel Regression with Post-stratification",
+    "objectID": "pages/lecture-04.html#key-concepts",
+    "href": "pages/lecture-04.html#key-concepts",
+    "title": "M04 Communication",
     "section": "Key Concepts",
     "text": "Key Concepts\nComing soon…"
   },
   {
-    "objectID": "pages/lecture-12.html#data-computing-notes",
-    "href": "pages/lecture-12.html#data-computing-notes",
-    "title": "M12 Causality + Multilevel Regression with Post-stratification",
-    "section": "Data & Computing Notes",
-    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
-  },
-  {
-    "objectID": "pages/lecture-10.html",
-    "href": "pages/lecture-10.html",
-    "title": "M10 Linear & Multilevel Models",
-    "section": "",
-    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 12 Linear models\n\n\n\nStart the lab notebook\nModule 10 Lab\n\n\n\nSkim the lecture slides\nModule 10 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
-  },
-  {
-    "objectID": "pages/lecture-10.html#key-concepts",
-    "href": "pages/lecture-10.html#key-concepts",
-    "title": "M10 Linear & Multilevel Models",
-    "section": "Key Concepts",
-    "text": "Key Concepts\nComing soon…"
-  },
-  {
-    "objectID": "pages/lecture-10.html#data-computing-notes",
-    "href": "pages/lecture-10.html#data-computing-notes",
-    "title": "M10 Linear & Multilevel Models",
-    "section": "Data & Computing Notes",
-    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
-  },
-  {
-    "objectID": "pages/lecture-08.html",
-    "href": "pages/lecture-08.html",
-    "title": "M08 Working with Data",
-    "section": "",
-    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 9 Clean and prepare\n\n\n\n\nCh. 10 Store and share\n\n\n\nStart the lab notebook\nModule 8 Lab\n\n\n\nSkim the lecture slides\nModule 8 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
-  },
-  {
-    "objectID": "pages/lecture-08.html#key-concepts",
-    "href": "pages/lecture-08.html#key-concepts",
-    "title": "M08 Working with Data",
-    "section": "Key Concepts",
-    "text": "Key Concepts\nComing soon…"
-  },
-  {
-    "objectID": "pages/lecture-08.html#data-computing-notes",
-    "href": "pages/lecture-08.html#data-computing-notes",
-    "title": "M08 Working with Data",
+    "objectID": "pages/lecture-04.html#data-computing-notes",
+    "href": "pages/lecture-04.html#data-computing-notes",
+    "title": "M04 Communication",
     "section": "Data & Computing Notes",
     "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
   },
@@ -283,196 +400,122 @@
     "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
   },
   {
-    "objectID": "pages/lecture-04.html",
-    "href": "pages/lecture-04.html",
-    "title": "M04 Communication",
+    "objectID": "pages/lecture-08.html",
+    "href": "pages/lecture-08.html",
+    "title": "M08 Working with Data",
     "section": "",
-    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 4 Writing research\n\n\n\n\nCh. 5 Graphs, tables, and maps\n\n\n\nStart the lab notebook\nModule 4 Lab\n\n\n\nSkim the lecture slides\nModule 4 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
+    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 9 Clean and prepare\n\n\n\n\nCh. 10 Store and share\n\n\n\nStart the lab notebook\nModule 8 Lab\n\n\n\nSkim the lecture slides\nModule 8 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
   },
   {
-    "objectID": "pages/lecture-04.html#key-concepts",
-    "href": "pages/lecture-04.html#key-concepts",
-    "title": "M04 Communication",
+    "objectID": "pages/lecture-08.html#key-concepts",
+    "href": "pages/lecture-08.html#key-concepts",
+    "title": "M08 Working with Data",
     "section": "Key Concepts",
     "text": "Key Concepts\nComing soon…"
   },
   {
-    "objectID": "pages/lecture-04.html#data-computing-notes",
-    "href": "pages/lecture-04.html#data-computing-notes",
-    "title": "M04 Communication",
+    "objectID": "pages/lecture-08.html#data-computing-notes",
+    "href": "pages/lecture-08.html#data-computing-notes",
+    "title": "M08 Working with Data",
     "section": "Data & Computing Notes",
     "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
   },
   {
-    "objectID": "pages/lecture-03.html",
-    "href": "pages/lecture-03.html",
-    "title": "M03 Reproducible Workflows",
+    "objectID": "pages/lecture-10.html",
+    "href": "pages/lecture-10.html",
+    "title": "M10 Linear & Multilevel Models",
     "section": "",
-    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 3 Reproducible workflows\n\n\n\nStart the lab notebook\nModule 3 Lab\n\n\n\nSkim the lecture slides\nModule 3 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…",
-    "crumbs": [
-      "Syllabus",
-      "**SOCI 3040, Day by Day**",
-      "M03 Reproducible Workflows"
-    ]
+    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 12 Linear models\n\n\n\nStart the lab notebook\nModule 10 Lab\n\n\n\nSkim the lecture slides\nModule 10 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
   },
   {
-    "objectID": "pages/lecture-03.html#key-concepts",
-    "href": "pages/lecture-03.html#key-concepts",
-    "title": "M03 Reproducible Workflows",
-    "section": "Key Concepts",
-    "text": "Key Concepts\nComing soon…",
-    "crumbs": [
-      "Syllabus",
-      "**SOCI 3040, Day by Day**",
-      "M03 Reproducible Workflows"
-    ]
-  },
-  {
-    "objectID": "pages/lecture-03.html#data-computing-notes",
-    "href": "pages/lecture-03.html#data-computing-notes",
-    "title": "M03 Reproducible Workflows",
-    "section": "Data & Computing Notes",
-    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…",
-    "crumbs": [
-      "Syllabus",
-      "**SOCI 3040, Day by Day**",
-      "M03 Reproducible Workflows"
-    ]
-  },
-  {
-    "objectID": "pages/lecture-05.html",
-    "href": "pages/lecture-05.html",
-    "title": "M05 Measurement and Sampling",
-    "section": "",
-    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 6 Measurement, censuses, and sampling\n\n\n\nStart the lab notebook\nModule 5 Lab\n\n\n\nSkim the lecture slides\nModule 5 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
-  },
-  {
-    "objectID": "pages/lecture-05.html#key-concepts",
-    "href": "pages/lecture-05.html#key-concepts",
-    "title": "M05 Measurement and Sampling",
+    "objectID": "pages/lecture-10.html#key-concepts",
+    "href": "pages/lecture-10.html#key-concepts",
+    "title": "M10 Linear & Multilevel Models",
     "section": "Key Concepts",
     "text": "Key Concepts\nComing soon…"
   },
   {
-    "objectID": "pages/lecture-05.html#data-computing-notes",
-    "href": "pages/lecture-05.html#data-computing-notes",
-    "title": "M05 Measurement and Sampling",
+    "objectID": "pages/lecture-10.html#data-computing-notes",
+    "href": "pages/lecture-10.html#data-computing-notes",
+    "title": "M10 Linear & Multilevel Models",
     "section": "Data & Computing Notes",
     "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
   },
   {
-    "objectID": "pages/lecture-07.html",
-    "href": "pages/lecture-07.html",
-    "title": "M07 Experiments and Surveys",
+    "objectID": "pages/lecture-12.html",
+    "href": "pages/lecture-12.html",
+    "title": "M12 Causality + Multilevel Regression with Post-stratification",
     "section": "",
-    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 8 Experiments and surveys\n\n\n\nStart the lab notebook\nModule 7 Lab\n\n\n\nSkim the lecture slides\nModule 7 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
+    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 15 Causality from observational data\n\n\n\n\nCh. 16 Multilevel regression with post-stratification\n\n\n\nStart the lab notebook\nModule 12 Lab\n\n\n\nSkim the lecture slides\nModule 12 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
   },
   {
-    "objectID": "pages/lecture-07.html#key-concepts",
-    "href": "pages/lecture-07.html#key-concepts",
-    "title": "M07 Experiments and Surveys",
+    "objectID": "pages/lecture-12.html#key-concepts",
+    "href": "pages/lecture-12.html#key-concepts",
+    "title": "M12 Causality + Multilevel Regression with Post-stratification",
     "section": "Key Concepts",
     "text": "Key Concepts\nComing soon…"
   },
   {
-    "objectID": "pages/lecture-07.html#data-computing-notes",
-    "href": "pages/lecture-07.html#data-computing-notes",
-    "title": "M07 Experiments and Surveys",
+    "objectID": "pages/lecture-12.html#data-computing-notes",
+    "href": "pages/lecture-12.html#data-computing-notes",
+    "title": "M12 Causality + Multilevel Regression with Post-stratification",
     "section": "Data & Computing Notes",
     "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
   },
   {
-    "objectID": "pages/lecture-09.html",
-    "href": "pages/lecture-09.html",
-    "title": "M09 Exploratory Data Analysis",
+    "objectID": "slides/slides-week-02.html#this-week",
+    "href": "slides/slides-week-02.html#this-week",
+    "title": "Drinking from a Firehose",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/slides-week-04.html#this-week",
+    "href": "slides/slides-week-04.html#this-week",
+    "title": "Communication",
+    "section": "this week…",
+    "text": "this week…\n\nWriting Research\nGraphs, Tables, & Maps"
+  },
+  {
+    "objectID": "slides/slides-week-06.html#this-week",
+    "href": "slides/slides-week-06.html#this-week",
+    "title": "APIs, Scraping, and Parsing",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/slides-week-08.html#this-week",
+    "href": "slides/slides-week-08.html#this-week",
+    "title": "Working with Data",
+    "section": "this week…",
+    "text": "this week…\n\nClean and Prepare\nStore and Share"
+  },
+  {
+    "objectID": "slides/slides-week-10.html#this-week",
+    "href": "slides/slides-week-10.html#this-week",
+    "title": "Linear Models",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/slides-week-12.html#this-week",
+    "href": "slides/slides-week-12.html#this-week",
+    "title": "Multilevel Models",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quantitative Research Methods",
     "section": "",
-    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 11 Exploratory data analysis\n\n\n\nStart the lab notebook\nModule 9 Lab\n\n\n\nSkim the lecture slides\nModule 9 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
+    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA"
   },
   {
-    "objectID": "pages/lecture-09.html#key-concepts",
-    "href": "pages/lecture-09.html#key-concepts",
-    "title": "M09 Exploratory Data Analysis",
-    "section": "Key Concepts",
-    "text": "Key Concepts\nComing soon…"
-  },
-  {
-    "objectID": "pages/lecture-09.html#data-computing-notes",
-    "href": "pages/lecture-09.html#data-computing-notes",
-    "title": "M09 Exploratory Data Analysis",
-    "section": "Data & Computing Notes",
-    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
-  },
-  {
-    "objectID": "pages/lecture-11.html",
-    "href": "pages/lecture-11.html",
-    "title": "M11 Generalized Linear Models",
-    "section": "",
-    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 13 Generalized linear models\n\n\n\nStart the lab notebook\nModule 11 Lab\n\n\n\nSkim the lecture slides\nModule 11 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
-  },
-  {
-    "objectID": "pages/lecture-11.html#key-concepts",
-    "href": "pages/lecture-11.html#key-concepts",
-    "title": "M11 Generalized Linear Models",
-    "section": "Key Concepts",
-    "text": "Key Concepts\nComing soon…"
-  },
-  {
-    "objectID": "pages/lecture-11.html#data-computing-notes",
-    "href": "pages/lecture-11.html#data-computing-notes",
-    "title": "M11 Generalized Linear Models",
-    "section": "Data & Computing Notes",
-    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
-  },
-  {
-    "objectID": "pages/module-01.html",
-    "href": "pages/module-01.html",
-    "title": "M01 Telling Stories with Data",
-    "section": "",
-    "text": "Module Overview and Learning Objectives\n\n\n\nComing soon…\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\nTable 1: Required Class Materials\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\nLink\n\n\n\n\nPrepare for class\nRead the module notes\nBelow\n\n\n\nRead from Alexander (2023)\nCh. 1 Telling Stories with Data\n\n\n\nStart the lab notebook\nModule 1 Lab\n\n\n\nSkim the lecture slides\nModule 1 Slides\n\n\nIn class / lab\nWork on the lab notebook\n\n\n\nAfter class / lab\nFinish the lab notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupplementary Materials\n\n\n\n\n\nI will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.  - first…"
-  },
-  {
-    "objectID": "pages/module-01.html#key-concepts",
-    "href": "pages/module-01.html#key-concepts",
-    "title": "M01 Telling Stories with Data",
-    "section": "Key Concepts",
-    "text": "Key Concepts\nComing soon…"
-  },
-  {
-    "objectID": "pages/module-01.html#data-computing-notes",
-    "href": "pages/module-01.html#data-computing-notes",
-    "title": "M01 Telling Stories with Data",
-    "section": "Data & Computing Notes",
-    "text": "Data & Computing Notes\n\nData Access\nComing soon…\n\n\nComputing Notes\nComing soon…"
-  },
-  {
-    "objectID": "pages/workflow.html",
-    "href": "pages/workflow.html",
-    "title": "Workflow",
-    "section": "",
-    "text": "This course is organized around the workflow Rohan Alexander introduces in Telling Stories with Data.\n\n\n\n\n\nflowchart LR\n    p[[Plan]]\n    sim[[Simulate]]\n    a[[Acquire]]\n    e[[Explore / Analyze]]\n    s[[Share]]\n\n    p --&gt; sim --&gt; a --&gt; e --&gt; s",
-    "crumbs": [
-      "Syllabus",
-      "**The 'Whole Game'**",
-      "Workflow"
-    ]
-  },
-  {
-    "objectID": "pages/key-concepts.html",
-    "href": "pages/key-concepts.html",
-    "title": "Key Concepts",
-    "section": "",
-    "text": "ConceptMeaning\n\n\nReproducibility\n\n\nBlah blah blah",
-    "crumbs": [
-      "Syllabus",
-      "**The 'Whole Game'**",
-      "Key Concepts"
-    ]
-  },
-  {
-    "objectID": "pages/resources.html",
-    "href": "pages/resources.html",
-    "title": "Additional Resources",
-    "section": "",
-    "text": "Additional Resources\nComing soon…"
+    "objectID": "index.html#about-the-instructor",
+    "href": "index.html#about-the-instructor",
+    "title": "Quantitative Research Methods",
+    "section": "About the Instructor",
+    "text": "About the Instructor\nJohn McLevey (he/him) Pronounced like mic-Leave-ee"
   }
 ]

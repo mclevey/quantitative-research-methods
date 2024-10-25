@@ -8,8 +8,8 @@ project:
     - "pages/"
 
 website:
-  site-url: "https://www.johnmclevey.com/quant-methods-3040/"  
-  repo-url: https://github.com/mclevey/quant-methods-3040
+  site-url: "https://www.johnmclevey.com/quantitative-research-methods/"  
+  repo-url: mclevey/quantitative-research-methods
   search:
     location: sidebar
     type: textbox

@@ -1,0 +1,18 @@
+---
+title: "Working with Data"
+subtitle: "Quantitative Research Methods"
+author: "John McLevey"
+format: kakashi-revealjs
+embed-resources: false
+bibliography: references.bib
+footer: "[🏠](SOCI3040-quantitative-research-methods)"
+---
+
+## this week...
+
+1. Clean and Prepare
+2. Store and Share
+
+# Clean and Prepare
+
+# Store and Share

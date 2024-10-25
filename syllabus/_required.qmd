@@ -1,0 +1,31 @@
+# Assigned Readings
+
+This courses uses Rohan Alexander's (2023) book *Telling Stories with Data*. You can purchase a print copy from the publisher or read it online for free [here](https://tellingstorieswithdata.com). @tbl-schedule contains specific chapter assignments.
+
+# Access to a laptop or tablet 
+
+You will need access to a fully-charged laptop (ideal) or tablet (a little less ideal) that you can take to class to work on lab notebooks and complete your work. *If that is not possible, speak to me as soon as possible; we will work out a solution.*
+
+# Required Software
+
+*You do not have to pay for any of the software in this course, now or ever.*
+
+You will learn to use **R** (a free/open source programming language and environment for statistical computing and graphics) and **Quarto** (a free/open source publishing system for creating dynamic and reproducible manuscripts, reports, websites, and presentations) in this course. Note that **I assume no prior experience** with R or Quarto. Everything you need to know about both will be introduced in the course. While some prior programming experience is an asset, it is by no means necessary.
+
+Ideally, you'll be able to download and install 
+
+- [R and RStudio](https://posit.co/download/rstudio-desktop/),
+- [Quarto](https://quarto.org), and 
+- [Git](https://git-scm.com) 
+
+on a laptop that you bring to each class meeting. If that is not possible, you can do all of your course work in a browser, which would allow you to avoid having to install software, or make it possible to use a tablet instead of a laptop.
+
+By default RStudio will generate HTML documents for your lab assignments and other work. It you want to be able to generate PDFs as well, you'll need to download and install LaTeX.
+
+- [MacTeX](https://www.tug.org/mactex/mactex-download.html) (macOS)
+- [MiKTeX](https://miktex.org/howto/install-miktex) (Windows)
+- [TeX Live](https://www.tug.org/texlive/) (Linux)
+
+## Accounts and API Keys
+
+You'll need to sign up for a free [GitHub](https://github.com) account. You'll also need to request free API Keys from a variety of websites and services throughout the course. I will provide detailed instructions in class and in the lab notebook each time.

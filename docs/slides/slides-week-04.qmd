@@ -1,0 +1,18 @@
+---
+title: "Communication"
+subtitle: "Quantitative Research Methods"
+author: "John McLevey"
+format: kakashi-revealjs
+embed-resources: false
+bibliography: references.bib
+footer: "[🏠](SOCI3040-quantitative-research-methods)"
+---
+
+## this week...
+
+1. Writing Research
+2. Graphs, Tables, & Maps
+
+# Writing Research
+
+# Graphs, Tables, & Maps

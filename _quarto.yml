@@ -1,0 +1,151 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+  output-dir: docs
+  resources:
+    - "slides/"
+    - "pages/"
+
+website:
+  site-url: "https://www.johnmclevey.com/quant-methods-3040/"  
+  repo-url: https://github.com/mclevey/quant-methods-3040
+  search:
+    location: sidebar
+    type: textbox
+  comments: 
+    giscus:
+      repo: mclevey/quantitative-research-methods
+  page-footer: 
+    border: true
+    center: "CC BY-SA"
+    left: "[John McLevey](https://www.johnmclevey.com)" 
+    right:
+      - icon: github
+        href: https://github.com/mclevey
+  # google-analytics: # EXAMPLE: "G-3Z3Z3Z3Z3Z3"
+
+
+
+  title: "(SOCI 3040) Quantitative Research Methods"
+  navbar:
+    background: secondary
+    left:
+      - text: "Syllabus"
+        href: syllabus/syllabus.qmd
+      - text: "Lectures"
+        menu:
+          - pages/lecture-01.qmd
+          - pages/lecture-02.qmd
+          - pages/lecture-03.qmd
+          - pages/lecture-04.qmd
+          - pages/lecture-05.qmd
+          - pages/lecture-06.qmd
+          - pages/lecture-07.qmd
+          - pages/lecture-08.qmd
+          - pages/lecture-09.qmd
+          - pages/lecture-10.qmd
+          - pages/lecture-11.qmd
+          - pages/lecture-12.qmd
+      - text: "Labs"
+        menu:
+          - labs/labs.qmd
+          - labs/labs.qmd
+          - labs/labs.qmd
+          - labs/labs.qmd
+          - labs/labs.qmd
+          - labs/labs.qmd
+          - labs/labs.qmd
+          - labs/labs.qmd
+          - labs/labs.qmd
+          - labs/labs.qmd
+          - labs/labs.qmd
+          - labs/labs.qmd
+      - text: "Computing"
+        menu:
+          - text: "**Accounts** & **API Keys**"
+            href: pages/accounts-keys.qmd
+          - text: "**R** & **Quarto** Essentials"
+            href: pages/computing.qmd
+          - text: "**Git** & **GitHub** Essentials"
+            href: pages/computing.qmd
+      - text: "🔥 Telling Stories with Data"
+        menu:
+          - text: "Ch. 01 **Telling stories with data**"
+            href: https://tellingstorieswithdata.com/01-introduction.html
+          - text: "Ch. 02 **Drinking from a fire hose**"
+            href: https://tellingstorieswithdata.com/02-drinking_from_a_fire_hose.html
+          - text: "Ch. 03 **Reproducible workflows**"
+            href: https://tellingstorieswithdata.com/03-workflow.html
+          - text: "Ch. 04 **Writing research**"
+            href: https://tellingstorieswithdata.com/04-writing_research.html
+          - text: "Ch. 05 **Graphs, tables, and maps**"
+            href: https://tellingstorieswithdata.com/05-static_communication.html
+          - text: "Ch. 06 **Measurement, censuses, and sampling**"
+            href: https://tellingstorieswithdata.com/06-farm.html
+          - text: "Ch. 07 **APIs, scraping, and parsing**"
+            href: https://tellingstorieswithdata.com/07-gather.html
+          - text: "Ch. 08 **Experiments and surveys**"
+            href: https://tellingstorieswithdata.com/08-hunt.html
+          - text: "Ch. 09 **Clean and prepare**"
+            href: https://tellingstorieswithdata.com/09-clean_and_prepare.html
+          - text: "Ch. 10 **Store and share**"
+            href: https://tellingstorieswithdata.com/10-store_and_share.html
+          - text: "Ch. 11 **Exploratory data analysis**"
+            href: https://tellingstorieswithdata.com/11-eda.html
+          - text: "Ch. 12 **Linear models**"
+            href: https://tellingstorieswithdata.com/12-ijalm.html
+          - text: "Ch. 13 **Generalized Linear Models**"
+            href: https://tellingstorieswithdata.com/13-ijaglm.html
+          - text: "Ch. 14 **Prediction**"
+            href: https://tellingstorieswithdata.com/13-prediction.html
+          - text: "Ch. 15 **Causality from observational data**"
+            href: Causality from observational data
+          - text: "Ch. 16 **Multilevel regression with post-stratification**"
+            href: https://tellingstorieswithdata.com/15-mrp.html
+          - text: "Ch. 17 **Text as data**"
+            href: https://tellingstorieswithdata.com/16-text.html
+          - text: "Ch. 18 **Concluding remarks**"
+            href:  https://tellingstorieswithdata.com/17-concluding.html
+          - text: "Appendix -- **R essentials**"
+            href: https://tellingstorieswithdata.com/20-r_essentials.html
+          - text: "Appendix -- **Datasets**"
+            href: https://tellingstorieswithdata.com/21-datasets.html
+          - text: "Appendix -- **Interaction**"
+            href: https://tellingstorieswithdata.com/24-interaction.html
+          - text: "Appendix -- **Datasheets**"
+            href: https://tellingstorieswithdata.com/25-datasheet.html
+          - text: "Appendix -- **Production**"
+            href: https://tellingstorieswithdata.com/28-deploy.html
+    right:
+      - text: "Additional Resources"
+        href: pages/resources.qmd
+      - text: "Code of Conduct"
+        href: pages/code-of-conduct.qmd
+      - text: "**CC BY-SA**"
+        href: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+      - icon: github
+        href: https://github.com/
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "**The 'Whole Game'**"
+        contents: 
+          - pages/workflow.qmd
+          - pages/key-concepts.qmd
+      - section: "**SOCI 3040, Day by Day**"
+        contents:
+          - pages/lecture-01.qmd
+          - pages/lecture-02.qmd
+          - pages/lecture-03.qmd
+  
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    mermaid:
+      theme: default

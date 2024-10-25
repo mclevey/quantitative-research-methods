@@ -1,0 +1,20 @@
+This section of SOCI 3440 is an introduction to **quantitative research methods**, from planning an analysis to sharing the final results. Following the workflow from Rohan Alexander's (2023) *Telling Stories with Data*, you will learn how to:
+
+::: {.aside}
+![Rohan Alexander's (2023) *Telling Stories with Data* is required reading in this course. You can purchase a print copy or [read it online for free](https://tellingstorieswithdata.com).](../media/telling-stories.png){width=100%}
+:::
+
+1. **plan** an analysis and sketch your data and endpoint 
+2. **simulate** some data to "force you into the details"
+3. **acquire**, assess, and prepare empirical data for analysis
+4. **explore** and analyze data by creating visualizations and fitting models
+5. **share** the results of your work with the world!
+
+You will use this workflow in the context of learning foundational quantitative research skills, including conducting **exploratory data analyses** and fitting, assessing, and interpreting **linear models**, **generalized linear models**, and **multilevel models**. Reproducibility and research ethics are considered throughout the workflow, and the entire course.
+
+
+::: {.callout-note}
+## R and Quarto 😁 -- No Experience Necessary
+
+You will learn to use **R** (a free/open source programming language and environment for statistical computing and graphics) and **Quarto** (a free/open source publishing system for creating dynamic and reproducible manuscripts, reports, websites, and presentations) in this course. Note that **I assume no prior experience** with R or Quarto. Everything you need to know about both will be introduced in the course. While some prior programming experience is an asset, it is by no means necessary.
+:::

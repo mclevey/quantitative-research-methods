@@ -1,0 +1,58 @@
+---
+title: M06 APIs, Scraping, and Parsing
+subtitle: "SOCI 3040 -- Quantitative Research Methods"
+bibliography: references.bib
+---
+
+# Module Content
+
+::: {.callout-tip}
+## Module Overview and Learning Objectives
+
+Coming soon...
+
+By the end of this module, students should be able to:
+
+1. Coming
+2. soon...
+:::
+
+| When                  | What                            | Link                                                                                   |
+|:----------------------|:--------------------------------|:---------------------------------------------------------------------------------------|
+| **Prepare for class** | Read the module notes           | [Below](#lecture-notes)                                                                 |
+|                       | Read from @alexander2023telling | [Ch. 7 APIs, Scraping, and Parsing](https://tellingstorieswithdata.com/07-gather.html) |
+|                       | Start the lab notebook          | [Module 6 Lab](../labs/lab-week-06/index.qmd)                                          |
+|                       | Skim the lecture slides         | [Module 6 Slides](../slides/slides-week-06.qmd)                                        |
+| **In class / lab**    | Work on the lab notebook        |                                                                                        |
+| **After class / lab** | Finish the lab notebook         |                                                                                        |
+
+: Required Class Materials {#tbl-required tbl-colwidths="[25,35,40]" .striped}
+
+::: {.callout-note collapse="true"}
+## Supplementary Materials
+I will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.
+<br>
+- first... 
+:::
+
+# Module Notes
+
+## Key Concepts
+
+Coming soon...
+
+## Data & Computing Notes
+
+### Data Access
+
+Coming soon...
+
+### Computing Notes
+
+Coming soon...
+
+# Test Your Knowledge
+
+Coming soon...
+
+# References

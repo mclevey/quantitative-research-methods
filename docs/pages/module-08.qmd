@@ -1,0 +1,59 @@
+---
+title: M08 Working with Data
+subtitle: "SOCI 3040 -- Quantitative Research Methods"
+bibliography: references.bib
+---
+
+# Module Content
+
+::: {.callout-tip}
+## Module Overview and Learning Objectives
+
+Coming soon...
+
+By the end of this module, students should be able to:
+
+1. Coming
+2. soon...
+:::
+
+| When                  | What                            | Link                                                                                    |
+|:----------------------|:--------------------------------|:----------------------------------------------------------------------------------------|
+| **Prepare for class** | Read the module notes           | [Below](#lecture-notes)                                                                  |
+|                       | Read from @alexander2023telling | [Ch. 9 Clean and prepare](https://tellingstorieswithdata.com/09-clean_and_prepare.html) |
+|                       |                                 | [Ch. 10 Store and share](https://tellingstorieswithdata.com/10-store_and_share.html)    |
+|                       | Start the lab notebook          | [Module 8 Lab](../labs/lab-week-08/index.qmd)                                           |
+|                       | Skim the lecture slides         | [Module 8 Slides](../slides/slides-week-08.qmd)                                         |
+| **In class / lab**    | Work on the lab notebook        |                                                                                         |
+| **After class / lab** | Finish the lab notebook         |                                                                                         |
+
+: Required Class Materials {#tbl-required tbl-colwidths="[25,35,40]" .striped}
+
+::: {.callout-note collapse="true"}
+## Supplementary Materials
+I will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.
+<br>
+- first... 
+:::
+
+# Module Notes
+
+## Key Concepts
+
+Coming soon...
+
+## Data & Computing Notes
+
+### Data Access
+
+Coming soon...
+
+### Computing Notes
+
+Coming soon...
+
+# Test Your Knowledge
+
+Coming soon...
+
+# References

@@ -1,0 +1,13 @@
+:::: {.columns}
+::: {.column}
+[John McLevey](https://www.johnmclevey.com) (he/him)<br>
+Professor, Department of Sociology<br>
+Memorial University<br>
+:::
+
+::: {.column}
+[github.com/mclevey](https://github.com/mclevey)<br>
+<john.mclevey@uwaterloo.ca><br>
+Office Hours: TBA
+:::
+::::

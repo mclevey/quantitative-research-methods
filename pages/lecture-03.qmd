@@ -1,15 +1,11 @@
 ---
-title: M03 Reproducible Workflows
+title: Week 03 -- Reproducible Workflows
 subtitle: "SOCI 3040 -- Quantitative Research Methods"
 bibliography: references.bib
 ---
 
-# Module Content
-
 ::: {.callout-tip}
-## Module Overview and Learning Objectives
-
-Coming soon...
+## Lecture Learning Objectives
 
 By the end of this module, students should be able to:
 
@@ -17,42 +13,21 @@ By the end of this module, students should be able to:
 2. soon...
 :::
 
-| When                  | What                            | Link                                                                                |
-|:----------------------|:--------------------------------|:------------------------------------------------------------------------------------|
-| **Prepare for class** | Read the module notes           | [Below](#lecture-notes)                                                              |
-|                       | Read from @alexander2023telling | [Ch. 3 Reproducible workflows](https://tellingstorieswithdata.com/03-workflow.html) |
-|                       | Start the lab notebook          | [Module 3 Lab](../labs/lab-week-03/index.qmd)                                       |
-|                       | Skim the lecture slides         | [Module 3 Slides](../slides/slides-week-03.qmd)                                     |
-| **In class / lab**    | Work on the lab notebook        |                                                                                     |
-| **After class / lab** | Finish the lab notebook         |                                                                                     |
 
-: Required Class Materials {#tbl-required tbl-colwidths="[25,35,40]" .striped}
+::: {.scrollable-table}
+| When                  | What                                                                                                                  |
+|:----------------------|:--------------------------------------------------------------------------------------------------------------------|
+| **Prepare for class** | Read @alexander2023telling [Ch. 3 Reproducible workflows](https://tellingstorieswithdata.com/03-workflow.html) |
+|                       | Start the lab assignment          | [Lecture 3 Lab](../labs/lab-week-03/index.qmd)                                       |
+| *Optional*                      | Flip through slides, skim lecture notes         | [Lecture 3 Slides](../slides/slides-week-03.qmd)                                     |
+| **In class**    | Work on the lab assignment        |                                                                                     |
+| **After class** | Submit the lab assignment         |                                                                                     |
 
-::: {.callout-note collapse="true"}
-## Supplementary Materials
-I will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.
-<br>
-- first... 
+: Class and Lab Schedule for Week XX {#tbl-required tbl-colwidths="[30,70]" .hover .light .info}
 :::
 
-# Module Notes
+# Lecture Slides
 
-## Key Concepts
-
-Coming soon...
-
-## Data & Computing Notes
-
-### Data Access
-
-Coming soon...
-
-### Computing Notes
-
-Coming soon...
-
-# Test Your Knowledge
-
-Coming soon...
+# Lecture Notes
 
 # References

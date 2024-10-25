@@ -1,3 +1,26 @@
-# Additional Resources
+---
+title: Additional Resources
+bibliography: ../references.bib
+---
 
-Coming soon...
+## Books
+
+- [Causal Inference in R](https://www.r-causal.org)
+- Statistical Rethinking
+- @gelman2021regression *Regression and Other Stories*
+- Doing Bayesian Data Analysis
+- Data Visualization
+- Roger Peng's [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+
+
+## Other Open Course Materials
+
+- Jenny Bryan's [STST545](https://stat545.com)
+- Richard McElreath's 2023 [Statistical Rethinking Lectures]()
+
+
+## Podcasts
+
+- 
+
+# References

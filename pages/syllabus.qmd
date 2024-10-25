@@ -1,0 +1,21 @@
+# Quantitative Research Methods
+
+**SOCI 3040**
+
+{{< include _contact.qmd >}}
+
+{{< include _description_calendar.qmd >}}
+
+{{< include _description_mclevey.qmd >}}
+
+## Learning Objectives
+
+{{< include _objectives.qmd >}}
+
+{{< include _required.qmd >}}
+
+{{< include _schedule.qmd >}}
+
+{{< include _assessment.qmd >}}
+
+{{< include _policies.qmd >}}

@@ -1,15 +1,11 @@
 ---
-title: M12 Causality + Multilevel Regression with Post-stratification
+title: Week 12 -- Multilevel Models
 subtitle: "SOCI 3040 -- Quantitative Research Methods"
 bibliography: references.bib
 ---
 
-# Module Content
-
 ::: {.callout-tip}
-## Module Overview and Learning Objectives
-
-Coming soon...
+## Lecture Learning Objectives
 
 By the end of this module, students should be able to:
 
@@ -17,43 +13,22 @@ By the end of this module, students should be able to:
 2. soon...
 :::
 
-| When                  | What                            | Link                                                                                                      |
-|:----------------------|:--------------------------------|:----------------------------------------------------------------------------------------------------------|
-| **Prepare for class** | Read the module notes           | [Below](#lecture-notes)                                                                                    |
-|                       | Read from @alexander2023telling | [Ch. 15 Causality from observational data](https://tellingstorieswithdata.com/14-causality_from_obs.html) |
-|                       |                                 | [Ch. 16 Multilevel regression with post-stratification](https://tellingstorieswithdata.com/15-mrp.html)   |
-|                       | Start the lab notebook          | [Module 12 Lab](../labs/lab-week-12/index.qmd)                                                            |
-|                       | Skim the lecture slides         | [Module 12 Slides](../slides/slides-week-12.qmd)                                                          |
-| **In class / lab**    | Work on the lab notebook        |                                                                                                           |
-| **After class / lab** | Finish the lab notebook         |                                                                                                           |
 
-: Required Class Materials {#tbl-required tbl-colwidths="[25,35,40]" .striped}
+::: {.scrollable-table}
+| When                  | What                                                                                                                        |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------|
+| **Before class on Tuesday** | Read @alexander2023telling [Multilevel regression with post-stratification](https://tellingstorieswithdata.com/15-mrp.html) |
+| **Before lab on Thursday**                      | Start the [lab assignment](../labs/lab-week-12/index.qmd) |
+|                       | **Optional**: Flip through the [lecture slides](../slides/slides-week-12.qmd), skim the [lecture notes](#lecture-notes) |
+| **In lab on Thursday**          | Work on the [lab assignment](../labs/lab-week-12/index.qmd) |                                                                                                           |
+| **After lab on Thursday**       | Submit the [lab assignment](../labs/lab-week-12/index.qmd) |                                                                                                           |
 
-::: {.callout-note collapse="true"}
-## Supplementary Materials
-I will introduce key content from these supplementary materials in the lectures and labs, but I still encourage you to review them if possible.
-<br>
-- first... 
+: Class and Lab Schedule for Week 12 {#tbl-required tbl-colwidths="[30,70]" .striped}
 :::
 
-# Module Notes
 
-## Key Concepts
+# Lecture Slides
 
-Coming soon...
-
-## Data & Computing Notes
-
-### Data Access
-
-Coming soon...
-
-### Computing Notes
-
-Coming soon...
-
-# Test Your Knowledge
-
-Coming soon...
+# Lecture Notes
 
 # References

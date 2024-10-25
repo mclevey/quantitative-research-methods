@@ -4,8 +4,7 @@ project:
     - "*.qmd"
   output-dir: docs
   resources:
-    - "slides/"
-    - "pages/"
+    - "media/"
 
 website:
   site-url: "https://www.johnmclevey.com/quantitative-research-methods/"  
@@ -16,6 +15,10 @@ website:
   comments: 
     giscus:
       repo: mclevey/quantitative-research-methods
+      loading: lazy
+      theme:
+        light: light
+        dark: dark_dimmed
   page-footer: 
     border: true
     center: "CC BY-SA"
@@ -23,6 +26,10 @@ website:
     right:
       - icon: github
         href: https://github.com/mclevey
+  body-footer: |
+      <!-- Simple Analytics - 100% privacy-first analytics -->
+      <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+      <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
   # google-analytics: # EXAMPLE: "G-3Z3Z3Z3Z3Z3"
 
 
@@ -32,7 +39,7 @@ website:
     background: secondary
     left:
       - text: "Syllabus"
-        href: syllabus/syllabus.qmd
+        href: pages/syllabus.qmd
       - text: "Lectures"
         menu:
           - pages/lecture-01.qmd
@@ -63,59 +70,67 @@ website:
           - labs/labs.qmd
       - text: "Computing"
         menu:
-          - text: "**Accounts** & **API Keys**"
-            href: pages/accounts-keys.qmd
-          - text: "**R** & **Quarto** Essentials"
-            href: pages/computing.qmd
-          - text: "**Git** & **GitHub** Essentials"
-            href: pages/computing.qmd
+          - text: "R and RStudio"
+            href: https://posit.co/download/rstudio-desktop/
+          - text: "Quarto"
+            href: https://quarto.org
+          - text: "Git"
+            href: https://git-scm.com/downloads
+          - text: "GitHub"
+            href: https://www.github.com
+          - text: "Posit Cloud"
+            href: https://posit.cloud/
+          - text: "API Keys"
+            href: pages/keys.qmd
       - text: "🔥 Telling Stories with Data"
         menu:
-          - text: "Ch. 01 **Telling stories with data**"
+          - text: "📖 Book Website"
+            href: https://tellingstorieswithdata.com/
+          - text: "Ch. 01 -- Telling stories with data"
             href: https://tellingstorieswithdata.com/01-introduction.html
-          - text: "Ch. 02 **Drinking from a fire hose**"
+          - text: "Ch. 02 -- Drinking from a fire hose"
             href: https://tellingstorieswithdata.com/02-drinking_from_a_fire_hose.html
-          - text: "Ch. 03 **Reproducible workflows**"
+          - text: "Ch. 03 -- Reproducible workflows"
             href: https://tellingstorieswithdata.com/03-workflow.html
-          - text: "Ch. 04 **Writing research**"
+          - text: "Ch. 04 -- Writing research"
             href: https://tellingstorieswithdata.com/04-writing_research.html
-          - text: "Ch. 05 **Graphs, tables, and maps**"
+          - text: "Ch. 05 -- Graphs, tables, and maps"
             href: https://tellingstorieswithdata.com/05-static_communication.html
-          - text: "Ch. 06 **Measurement, censuses, and sampling**"
+          - text: "Ch. 06 -- Measurement, censuses, and sampling"
             href: https://tellingstorieswithdata.com/06-farm.html
-          - text: "Ch. 07 **APIs, scraping, and parsing**"
+          - text: "Ch. 07 -- APIs, scraping, and parsing"
             href: https://tellingstorieswithdata.com/07-gather.html
-          - text: "Ch. 08 **Experiments and surveys**"
+          - text: "Ch. 08 -- Experiments and surveys"
             href: https://tellingstorieswithdata.com/08-hunt.html
-          - text: "Ch. 09 **Clean and prepare**"
+          - text: "Ch. 09 -- Clean and prepare"
             href: https://tellingstorieswithdata.com/09-clean_and_prepare.html
-          - text: "Ch. 10 **Store and share**"
+          - text: "Ch. 10 -- Store and share"
             href: https://tellingstorieswithdata.com/10-store_and_share.html
-          - text: "Ch. 11 **Exploratory data analysis**"
+          - text: "Ch. 11 -- Exploratory data analysis"
             href: https://tellingstorieswithdata.com/11-eda.html
-          - text: "Ch. 12 **Linear models**"
+          - text: "Ch. 12 -- Linear models"
             href: https://tellingstorieswithdata.com/12-ijalm.html
-          - text: "Ch. 13 **Generalized Linear Models**"
+          - text: "Ch. 13 -- Generalized Linear Models"
             href: https://tellingstorieswithdata.com/13-ijaglm.html
-          - text: "Ch. 14 **Prediction**"
+          - text: "Ch. 14 -- Prediction"
             href: https://tellingstorieswithdata.com/13-prediction.html
-          - text: "Ch. 15 **Causality from observational data**"
+          - text: "Ch. 15 -- Causality from observational data"
             href: Causality from observational data
-          - text: "Ch. 16 **Multilevel regression with post-stratification**"
+          - text: "Ch. 16 -- Multilevel regression with post-stratification"
             href: https://tellingstorieswithdata.com/15-mrp.html
-          - text: "Ch. 17 **Text as data**"
+          - text: "Ch. 17 -- Text as data"
             href: https://tellingstorieswithdata.com/16-text.html
-          - text: "Ch. 18 **Concluding remarks**"
+          - text: "Ch. 18 -- Concluding remarks"
             href:  https://tellingstorieswithdata.com/17-concluding.html
-          - text: "Appendix -- **R essentials**"
+          - text: "Appendix -- R essentials"
             href: https://tellingstorieswithdata.com/20-r_essentials.html
-          - text: "Appendix -- **Datasets**"
+          - text: "Appendix -- Datasets"
             href: https://tellingstorieswithdata.com/21-datasets.html
-          - text: "Appendix -- **Interaction**"
+          - text: "Appendix -- Interaction"
             href: https://tellingstorieswithdata.com/24-interaction.html
-          - text: "Appendix -- **Datasheets**"
+          - text: "Appendix -- Datasheets"
             href: https://tellingstorieswithdata.com/25-datasheet.html
-          - text: "Appendix -- **Production**"
+          - text: "Appendix -- Production"
             href: https://tellingstorieswithdata.com/28-deploy.html
     right:
       - text: "Additional Resources"
@@ -130,15 +145,24 @@ website:
     style: "floating"
     search: true
     contents:
-      - section: "**The 'Whole Game'**"
+      - section: "<strong>Cheatsheets</strong>"
         contents: 
+          - pages/concepts.qmd
+          - pages/diagrams.qmd
           - pages/workflow.qmd
-          - pages/key-concepts.qmd
-      - section: "**SOCI 3040, Day by Day**"
+          - pages/notation.qmd
+      - section: "<strong>Campus Resources</strong>"
         contents:
-          - pages/lecture-01.qmd
-          - pages/lecture-02.qmd
-          - pages/lecture-03.qmd
+          - text: Student Wellness and Counselling Centre
+            href: https://www.mun.ca/studentwellness/
+          - text: Accessibility Services
+            href: https://www.mun.ca/munup/academic-success-centre/learning-supports/accessibility-services/
+          - text: Academic Success Centre
+            href: https://www.mun.ca/munup/academic-success-centre/
+          - text: Learning Skills Resources
+            href: https://www.mun.ca/munup/academic-success-centre/learning-skills-resources/
+          - text: Writing Centre
+            href: https://www.mun.ca/munup/academic-success-centre/learning-supports/writing-and-research/
   
 format:
   html:

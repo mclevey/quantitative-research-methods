@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -153,52 +173,56 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-labs">    
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/instructions.html">
+ <span class="dropdown-text">SOCI 3040 Lab Instructions</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/lab-01.html">
+ <span class="dropdown-text">Lab 01 – Telling stories with data</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/lab-02.html">
+ <span class="dropdown-text">Lab 02 – Drinking from a firehose</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/lab-03.html">
+ <span class="dropdown-text">Lab 03 – Reproducible workflows</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/lab-04.html">
+ <span class="dropdown-text">Lab 04 – Communication</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/lab-05.html">
+ <span class="dropdown-text">Lab 05 – Measurement, censuses, and sampling</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/lab-06.html">
+ <span class="dropdown-text">Lab 06 – APIs, scraping, and parsing</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/lab-07.html">
+ <span class="dropdown-text">Lab 07 – Experiments and surveys</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/lab-08.html">
+ <span class="dropdown-text">Lab 08 – Working with Data</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/lab-09.html">
+ <span class="dropdown-text">Lab 09 – Exploratory data analysis</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/lab-10.html">
+ <span class="dropdown-text">Lab 10 – Linear models</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../labs/labs.html">
- <span class="dropdown-text">Coming soon…</span></a>
+    <a class="dropdown-item" href="../labs/lab-11.html">
+ <span class="dropdown-text">Lab 11 – Generalized linear models</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../labs/lab-12.html">
+ <span class="dropdown-text">Lab 12 – Multilevel regression with post-stratification</span></a>
   </li>  
     </ul>
   </li>
@@ -476,7 +500,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">Lecture Slides</a></li>
   <li><a href="#lecture-notes" id="toc-lecture-notes" class="nav-link" data-scroll-target="#lecture-notes">Lecture Notes</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
-  <li><a href="#references-1" id="toc-references-1" class="nav-link" data-scroll-target="#references-1">References</a></li>
   </ul>
 </nav>
     </div>
@@ -503,6 +526,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><span class="citation" data-cites="alexander2023telling">Alexander (<a href="#ref-alexander2023telling" role="doc-biblioref">2023</a>)</span></p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -579,15 +603,17 @@ Table&nbsp;1: Class and Lab Schedule for Week XX
 <h1>Lecture Notes</h1>
 </section>
 <section id="references" class="level1">
-<h1>References</h1>
-</section>
-<section id="references-1" class="level1">
-<h1>References</h1>
+
+
 
 
 </section>
 
-<script async="" defer="" src="https://scripts.simpleanalyticscdn.com/latest.js"></script></main> <!-- /main -->
+<script async="" defer="" src="https://scripts.simpleanalyticscdn.com/latest.js"></script><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-alexander2023telling" class="csl-entry" role="listitem">
+Alexander, Rohan. 2023. <em>Telling Stories with Data: With Applications in <span>R</span></em>. Chapman; Hall/CRC.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

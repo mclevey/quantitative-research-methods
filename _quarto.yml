@@ -5,6 +5,7 @@ project:
   output-dir: docs
   resources:
     - "media/"
+    - "../references.bib"
 
 website:
   site-url: "https://www.johnmclevey.com/quantitative-research-methods/"  
@@ -40,7 +41,7 @@ website:
     left:
       - text: "Syllabus"
         href: pages/syllabus.qmd
-      - text: "Lectures"
+      - text: "Classes"
         menu:
           - pages/lecture-01.qmd
           - pages/lecture-02.qmd
@@ -56,21 +57,31 @@ website:
           - pages/lecture-12.qmd
       - text: "Labs"
         menu:
-          - labs/README.md
-          - labs/3040-lab-01/lab-notebook.qmd
-          - text: "Lab 01 -- Telling Stories with Data"
-            href: http://www.johnmclevey.com/3040-lab-01/
-          # - labs/labs.qmd
-          # - labs/labs.qmd
-          # - labs/labs.qmd
-          # - labs/labs.qmd
-          # - labs/labs.qmd
-          # - labs/labs.qmd
-          # - labs/labs.qmd
-          # - labs/labs.qmd
-          # - labs/labs.qmd
-          # - labs/labs.qmd
-          # - labs/labs.qmd
+          - labs/instructions.qmd
+          - text: "Lab 01 -- Telling stories with data"
+            href: labs/lab-01.qmd
+          - text: "Lab 02 -- Drinking from a firehose"
+            href: labs/lab-02.qmd
+          - text: "Lab 03 -- Reproducible workflows"
+            href: labs/lab-03.qmd
+          - text: "Lab 04 -- Communication"
+            href: labs/lab-04.qmd
+          - text: "Lab 05 -- Measurement, censuses, and sampling"
+            href: labs/lab-05.qmd
+          - text: "Lab 06 -- APIs, scraping, and parsing"
+            href: labs/lab-06.qmd
+          - text: "Lab 07 -- Experiments and surveys"
+            href: labs/lab-07.qmd
+          - text: "Lab 08 -- Working with Data"
+            href: labs/lab-08.qmd
+          - text: "Lab 09 -- Exploratory data analysis"
+            href: labs/lab-09.qmd
+          - text: "Lab 10 -- Linear models"
+            href: labs/lab-10.qmd
+          - text: "Lab 11 -- Generalized linear models"
+            href: labs/lab-11.qmd
+          - text: "Lab 12 -- Multilevel regression with post-stratification"
+            href: labs/lab-12.qmd
       - text: "Computing"
         menu:
           - text: "R and RStudio"
@@ -135,27 +146,15 @@ website:
             href: https://tellingstorieswithdata.com/25-datasheet.html
           - text: "Appendix -- Production"
             href: https://tellingstorieswithdata.com/28-deploy.html
-    right:
-      - text: "Additional Resources"
-        href: pages/resources.qmd
-      - text: "Code of Conduct"
-        href: pages/code-of-conduct.qmd
-      - text: "**CC BY-SA**"
-        href: https://creativecommons.org/licenses/by-sa/4.0/deed.en
-      - icon: github
-        href: https://github.com/
-  sidebar:
-    style: "floating"
-    search: true
-    contents:
-      - section: "<strong>Cheatsheets</strong>"
-        contents: 
+      - text: "Cheatsheets"
+        menu: 
           - pages/concepts.qmd
           - pages/diagrams.qmd
           - pages/workflow.qmd
-          - pages/notation.qmd
-      - section: "<strong>Campus Resources</strong>"
-        contents:
+          # - pages/notation.qmd
+    right:
+      - text: "Campus Resources"
+        menu:
           - text: Student Wellness and Counselling Centre
             href: https://www.mun.ca/studentwellness/
           - text: Accessibility Services
@@ -166,7 +165,77 @@ website:
             href: https://www.mun.ca/munup/academic-success-centre/learning-skills-resources/
           - text: Writing Centre
             href: https://www.mun.ca/munup/academic-success-centre/learning-supports/writing-and-research/
-  
+        # href: pages/resources.qmd
+      - text: "Code of Conduct"
+        href: pages/code-of-conduct.qmd
+      - text: "**CC BY-SA**"
+        href: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+      - icon: github
+        href: https://github.com/
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "<strong>DAY BY DAY</strong>"
+        contents:
+          - text: "Tuesday, January 7"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, January 9"
+            href: https://www.johnmclevey.com
+          - text: "Tuesday, January 14"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, January 16"
+            href: https://www.johnmclevey.com
+          - text: "Tuesday, January 21"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, January 23"
+            href: https://www.johnmclevey.com
+          - text: "Tuesday, January 28"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, January 30"
+            href: https://www.johnmclevey.com
+          - text: "Tuesday, February 4"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, February 6"
+            href: https://www.johnmclevey.com
+          - text: "Tuesday, February 11"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, February 13"
+            href: https://www.johnmclevey.com
+          - text: "Tuesday, February 18"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, February 20"
+            href: https://www.johnmclevey.com
+          - text: "<strong>Winter Break!</strong>"
+          # - text: "Tuesday, February 25"
+          #   href: https://www.johnmclevey.com
+          # - text: "Thursday, February 27"
+          #   href: https://www.johnmclevey.com
+          - text: "Tuesday, March 4"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, March 6"
+            href: https://www.johnmclevey.com
+          - text: "Tuesday, March 11"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, March 13"
+            href: https://www.johnmclevey.com
+          - text: "Tuesday, March 18"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, March 20"
+            href: https://www.johnmclevey.com
+          - text: "Tuesday, March 25"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, March 27"
+            href: https://www.johnmclevey.com
+          - text: "Tuesday, April 1"
+            href: https://www.johnmclevey.com
+          - text: "Thursday, April 3"
+            href: https://www.johnmclevey.com
+          - text: "Tuesday, April 8"
+            href: https://www.johnmclevey.com
+
+
+
 format:
   html:
     theme: 

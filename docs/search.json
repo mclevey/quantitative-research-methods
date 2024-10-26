@@ -195,7 +195,7 @@
     "href": "pages/lecture-01.html",
     "title": "Week 01 – Telling Stories with Data",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\n\nPrepare for class\nComplete reading assignment Ch. 1 Telling Stories with Data\n\n\n\n\nStart the lab assignment Lab 01\n\n\n\nOptional\nFlip through slides, skim lecture notesLecture 01 Slides\n\n\n\nIn class\nWork on the lab assignment\n\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\nReferences\n\n\nReferences"
+    "text": "Alexander (2023)\n\n\n\n\n\n\nLecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\n\nPrepare for class\nComplete reading assignment Ch. 1 Telling Stories with Data\n\n\n\n\nStart the lab assignment Lab 01\n\n\n\nOptional\nFlip through slides, skim lecture notesLecture 01 Slides\n\n\n\nIn class\nWork on the lab assignment\n\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/diagrams.html",
@@ -208,6 +208,13 @@
       "<strong>Cheatsheets</strong>",
       "Diagrams"
     ]
+  },
+  {
+    "objectID": "labs/lab-02.html",
+    "href": "labs/lab-02.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
     "objectID": "pages/code-of-conduct.html#introduction",
@@ -252,23 +259,11 @@
     "text": "Attribution\nDerived from the DSCI 100 Code of Conduct, which was derived from the Carpentries Code of Conduct."
   },
   {
-    "objectID": "labs/labs.html",
-    "href": "labs/labs.html",
-    "title": "Coming soon…",
-    "section": "",
-    "text": "Coming soon…"
-  },
-  {
     "objectID": "pages/concepts.html",
     "href": "pages/concepts.html",
     "title": "Concepts",
     "section": "",
-    "text": "Coming soon…",
-    "crumbs": [
-      "Syllabus",
-      "<strong>Cheatsheets</strong>",
-      "Concepts"
-    ]
+    "text": "Coming soon…"
   },
   {
     "objectID": "pages/keys.html",
@@ -411,66 +406,87 @@
     "text": "Land Acknowledgement\n\nWe acknowledge that the lands on which Memorial University’s campuses are situated are in the traditional territories of diverse Indigenous groups, and we acknowledge with respect the diverse histories and cultures of the Beothuk, Mi’kmaq, Innu, and Inuit of this province."
   },
   {
-    "objectID": "labs/3040-lab-01/lab-notebook.html",
-    "href": "labs/3040-lab-01/lab-notebook.html",
-    "title": "Lab Notebook Template",
+    "objectID": "labs/lab-12.html",
+    "href": "labs/lab-12.html",
+    "title": "Drinking from a Firehose",
     "section": "",
-    "text": "This lab is organized into three thematic sections: Think, Do, and Debrief.\nI recommend that you start working on this material a day (or two) before the lab session. Follow the instructions as best as you can and complete as much as possible. If you encounter any difficulties, make note of them. We will address them during the next class or lab session.\nThe content in this course is challenging for everyone at first, so feeling confused or frustrated is entirely normal. 😮‍💨 Our active learning approach might amplify these feelings by highlighting things we haven’t yet mastered. Though it can feel uncomfortable, this is a natural and valuable part of learning. Discomfort is useful feedback that tells us where we need to focus our efforts to learn more deeply and durably (Brown, Roediger, and McDaniel 2014; Sloman and Fernbach 2018; Zakrajsek 2022). Take a deep breath, and if needed, stretch or move around. Remember, I’m here to help you learn, and so are your peers. You’ve got this! ✌️"
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "labs/3040-lab-01/lab-notebook.html#theme-1-xxx",
-    "href": "labs/3040-lab-01/lab-notebook.html#theme-1-xxx",
-    "title": "Lab Notebook Template",
-    "section": "Theme 1 XXX",
-    "text": "Theme 1 XXX\n\n\n\n\n\n\nWeight\n\n\n\n1 point (each question is worth XXX points)\n\n\nBased on your reading of XXX, answer the following questions in your own words:\n\nQuestion one\nQuestion two\netc."
+    "objectID": "labs/lab-10.html",
+    "href": "labs/lab-10.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "labs/3040-lab-01/lab-notebook.html#theme-2-xxx",
-    "href": "labs/3040-lab-01/lab-notebook.html#theme-2-xxx",
-    "title": "Lab Notebook Template",
-    "section": "Theme 2 XXX",
-    "text": "Theme 2 XXX\n\n\n\n\n\n\nWeight\n\n\n\n1 point (each question is worth XXX points)\n\n\nBased on your reading of XXX, answer the following questions in your own words:\n\nQuestion one\nQuestion two\netc."
+    "objectID": "labs/lab-08.html",
+    "href": "labs/lab-08.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "labs/3040-lab-01/lab-notebook.html#theme-3-xxx",
-    "href": "labs/3040-lab-01/lab-notebook.html#theme-3-xxx",
-    "title": "Lab Notebook Template",
-    "section": "Theme 3 XXX",
-    "text": "Theme 3 XXX\n\n\n\n\n\n\nWeight\n\n\n\n1 point (each question is worth XXX points)\n\n\nBased on your reading of XXX, answer the following questions in your own words:\n\nQuestion one\nQuestion two\netc."
+    "objectID": "labs/lab-06.html",
+    "href": "labs/lab-06.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "labs/3040-lab-01/lab-notebook.html#step-1-xxx",
-    "href": "labs/3040-lab-01/lab-notebook.html#step-1-xxx",
-    "title": "Lab Notebook Template",
-    "section": "Step 1: XXX",
-    "text": "Step 1: XXX\n\n\n\n\n\n\nWeight\n\n\n\nXXX points\n\n\n\nInstructions\nGo\nHere"
+    "objectID": "labs/lab-04.html",
+    "href": "labs/lab-04.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "labs/3040-lab-01/lab-notebook.html#step-2-xxx",
-    "href": "labs/3040-lab-01/lab-notebook.html#step-2-xxx",
-    "title": "Lab Notebook Template",
-    "section": "Step 2: XXX",
-    "text": "Step 2: XXX\n\n\n\n\n\n\nWeight\n\n\n\nXXX points\n\n\n\nInstructions\nGo\nHere"
+    "objectID": "labs/instructions.html",
+    "href": "labs/instructions.html",
+    "title": "SOCI 3040 Lab Instructions",
+    "section": "",
+    "text": "SOCI 3040 Lab Instructions\nThe labs in this course are organized into three thematic sections: Think, Do, and Debrief.\n\n🤔 Think consists of open-ended questions designed to spark reflection, critical and creative thinking, design thinking, and problem-solving.\n🤘 Do consists of practical tasks and research problems that build essential quantitative research skills, such as installing and using research software, planning analyses, simulating or processing data, creating graphs, fitting statistical models, and interpreting results.\n👋 Debrief contains prompts to encourage metacognition and growth by providing opportunities to assess your learning, share insights, and discuss challenges and breakthroughs with your lab group.\n\nI recommend that you start working on each lab a day (or two) before the lab session. Follow the instructions as best as you can and complete as much as possible. If you encounter any difficulties, make note of them. We will address them during the next class or lab session.\nThe content in this course is challenging for everyone at first, so feeling confused or frustrated is entirely normal. 😮‍💨 Our active learning approach might amplify these feelings by highlighting things we haven’t yet mastered. Though it can feel uncomfortable, this is a natural and valuable part of learning. Discomfort is useful feedback that tells us where we need to focus our efforts to learn more deeply and durably [@brown2014make; @sloman2018knowledge; @zakrajsek2022new]. Take a deep breath, and if needed, stretch or move around. Remember, I’m here to help you learn, and so are your peers. You’ve got this! ✌️\n…"
   },
   {
-    "objectID": "labs/3040-lab-01/lab-notebook.html#step-3-xxx",
-    "href": "labs/3040-lab-01/lab-notebook.html#step-3-xxx",
-    "title": "Lab Notebook Template",
-    "section": "Step 3: XXX",
-    "text": "Step 3: XXX\n\n\n\n\n\n\nWeight\n\n\n\nXXX points\n\n\n\nInstructions\nGo\nHere"
+    "objectID": "labs/lab-01.html",
+    "href": "labs/lab-01.html",
+    "title": "Week 01 – Telling Stories with Data",
+    "section": "",
+    "text": "Alexander (2023)\n\n\n\n\n\n\nLearning Objectives\n\n\n\nIn this lab, you will:\n\nIn progress…\nComing soon…\n🔥\n\n\n\n\n🤔 Part 1: Think\n\n\n🤘 Part 2: Do\n\n\n👋 Part 3: Debrief\n\n\n\n\n\n\n\n\n\n✅ Submit Your Lab!\n\nWhen you are finished, submit your lab by (details coming soon…).\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
-    "objectID": "labs/3040-lab-01/lab-notebook.html#step-4-xxx",
-    "href": "labs/3040-lab-01/lab-notebook.html#step-4-xxx",
-    "title": "Lab Notebook Template",
-    "section": "Step 4: XXX",
-    "text": "Step 4: XXX\n\n\n\n\n\n\nWeight\n\n\n\nXXX points\n\n\n\nInstructions\nGo\nHere"
+    "objectID": "labs/lab-03.html",
+    "href": "labs/lab-03.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
   },
   {
-    "objectID": "labs/3040-lab-01/lab-notebook.html#step-5-xxx",
-    "href": "labs/3040-lab-01/lab-notebook.html#step-5-xxx",
-    "title": "Lab Notebook Template",
-    "section": "Step 5: XXX",
-    "text": "Step 5: XXX\n\n\n\n\n\n\nWeight\n\n\n\nXXX points\n\n\n\nInstructions\nGo\nHere"
+    "objectID": "labs/lab-05.html",
+    "href": "labs/lab-05.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "labs/lab-07.html",
+    "href": "labs/lab-07.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "labs/lab-09.html",
+    "href": "labs/lab-09.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "labs/lab-11.html",
+    "href": "labs/lab-11.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
   }
 ]

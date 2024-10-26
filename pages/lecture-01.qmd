@@ -1,8 +1,10 @@
 ---
 title: Week 01 -- Telling Stories with Data
 subtitle: "SOCI 3040 -- Quantitative Research Methods"
-bibliography: references.bib
+bibliography: ../references.bib
 ---
+
+@alexander2023telling
 
 ::: {.callout-tip}
 ## Lecture Learning Objectives
@@ -30,7 +32,5 @@ By the end of this module, students should be able to:
 # Lecture Slides
 
 # Lecture Notes
-
-# References
 
 # References

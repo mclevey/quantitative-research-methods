@@ -1,0 +1,37 @@
+---
+title: "Drinking from a Firehose"
+subtitle: "SOCI 3040 | **Lab 02 Notebook**"
+authors:
+  - name: "[John McLevey](https://www.johnmclevey.com)"
+    email: john.mclevey@uwaterloo.ca
+    affiliation: "6%"
+author-title: "COURSE AUTHOR & INSTRUCTOR"
+affiliation-title: "GRADE VALUE"
+abstract-title: "LAB OVERVIEW"
+abstract: |
+  A paragraph or two summarizing the lab content and learning objectives.
+toc-title: "**LAB COMPONENTS**"
+keywords:
+  - list 
+  - of
+  - key
+  - concepts
+monofont: Hack Nerd Font Mono
+bibliography: ../references.bib
+license: "CC BY-SA"
+execute:
+  echo: true
+crossref:
+  custom: 
+    - kind: float
+      reference-prefix: Task
+      key: task
+    - kind: float
+      reference-prefix: Question
+      key: ques
+    - kind: float
+      reference-prefix: Problem
+      key: prob
+---
+
+Coming soon...

@@ -1,0 +1,33 @@
+---
+title: Class 01 -- Telling Stories with Data
+subtitle: "SOCI 3040 -- Quantitative Research Methods"
+bibliography: ../references.bib
+---
+
+<br><br>
+
+@alexander2023telling
+
+::: {.callout-tip} 
+## Learning Objectives
+
+In this lab, you will:
+
+1. In progress...
+2. Coming soon...
+3. 🔥
+:::
+
+# 🤔 Part 1: Think
+
+# 🤘 Part 2: Do
+
+# 👋 Part 3: Debrief
+
+# ✅ Submit Your Lab! {.appendix}
+
+When you are finished, submit your lab by **(details coming soon...)**.
+
+---
+
+# References

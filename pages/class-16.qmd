@@ -1,0 +1,21 @@
+---
+title: Class 16 -- 
+subtitle: "SOCI 3040 -- Quantitative Research Methods"
+bibliography: ../references.bib
+---
+
+{{< include _contact.qmd >}}
+
+::: {.callout-important}
+## 🚧 Under Construction
+I am currently developing these course materials. Please check back in January 2025.
+<br>
+- John
+:::
+
+::: {.callout-important}
+## 🚧 Under Construction
+I am currently developing these course materials. Please check back in January 2025.
+<br>
+- John
+:::

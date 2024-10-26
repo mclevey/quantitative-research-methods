@@ -26,13 +26,11 @@ website:
     left: "[John McLevey](https://www.johnmclevey.com)" 
     right:
       - icon: github
-        href: https://github.com/mclevey
+        href: https://github.com/quantitative-research-methods
   body-footer: |
       <!-- Simple Analytics - 100% privacy-first analytics -->
       <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
       <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
-  # google-analytics: # EXAMPLE: "G-3Z3Z3Z3Z3Z3"
-
 
 
   title: "(SOCI 3040) Quantitative Research Methods"
@@ -41,61 +39,66 @@ website:
     left:
       - text: "Syllabus"
         href: pages/syllabus.qmd
-      - text: "Classes"
+      - text: "Slides"
         menu:
-          - pages/lecture-01.qmd
-          - pages/lecture-02.qmd
-          - pages/lecture-03.qmd
-          - pages/lecture-04.qmd
-          - pages/lecture-05.qmd
-          - pages/lecture-06.qmd
-          - pages/lecture-07.qmd
-          - pages/lecture-08.qmd
-          - pages/lecture-09.qmd
-          - pages/lecture-10.qmd
-          - pages/lecture-11.qmd
-          - pages/lecture-12.qmd
+          - slides/deck-01.qmd
+          - slides/deck-02.qmd
+          - slides/deck-03.qmd
+          - slides/deck-04.qmd
+          - slides/deck-05.qmd
+          - slides/deck-06.qmd
+          - slides/deck-07.qmd
+          - slides/deck-08.qmd
+          - slides/deck-09.qmd
+          - slides/deck-10.qmd
+          - slides/deck-11.qmd
+          - slides/deck-12.qmd
+          - slides/deck-13.qmd
+          - slides/deck-14.qmd
+          - slides/deck-15.qmd
+          - slides/deck-16.qmd
+          - slides/deck-17.qmd
+          - slides/deck-18.qmd
+          - slides/deck-19.qmd
+          - slides/deck-20.qmd
+          - slides/deck-21.qmd
+          - slides/deck-22.qmd
+          - slides/deck-23.qmd
+          - slides/deck-24.qmd
+          - slides/deck-25.qmd
       - text: "Labs"
         menu:
-          - labs/instructions.qmd
+          - pages/lab-instructions.qmd
           - text: "Lab 01 -- Telling stories with data"
-            href: labs/lab-01.qmd
+            href: pages/lab-01.qmd
           - text: "Lab 02 -- Drinking from a firehose"
-            href: labs/lab-02.qmd
+            href: pages/lab-02.qmd
           - text: "Lab 03 -- Reproducible workflows"
-            href: labs/lab-03.qmd
+            href: pages/lab-03.qmd
           - text: "Lab 04 -- Communication"
-            href: labs/lab-04.qmd
+            href: pages/lab-04.qmd
           - text: "Lab 05 -- Measurement, censuses, and sampling"
-            href: labs/lab-05.qmd
+            href: pages/lab-05.qmd
           - text: "Lab 06 -- APIs, scraping, and parsing"
-            href: labs/lab-06.qmd
+            href: pages/lab-06.qmd
           - text: "Lab 07 -- Experiments and surveys"
-            href: labs/lab-07.qmd
+            href: pages/lab-07.qmd
           - text: "Lab 08 -- Working with Data"
-            href: labs/lab-08.qmd
+            href: pages/lab-08.qmd
           - text: "Lab 09 -- Exploratory data analysis"
-            href: labs/lab-09.qmd
+            href: pages/lab-09.qmd
           - text: "Lab 10 -- Linear models"
-            href: labs/lab-10.qmd
+            href: pages/lab-10.qmd
           - text: "Lab 11 -- Generalized linear models"
-            href: labs/lab-11.qmd
+            href: pages/lab-11.qmd
           - text: "Lab 12 -- Multilevel regression with post-stratification"
-            href: labs/lab-12.qmd
-      - text: "Computing"
-        menu:
-          - text: "R and RStudio"
-            href: https://posit.co/download/rstudio-desktop/
-          - text: "Quarto"
-            href: https://quarto.org
-          - text: "Git"
-            href: https://git-scm.com/downloads
-          - text: "GitHub"
-            href: https://www.github.com
-          - text: "Posit Cloud"
-            href: https://posit.cloud/
-          - text: "API Keys"
-            href: pages/keys.qmd
+            href: pages/lab-12.qmd
+      - text: "Cheatsheets"
+        menu: 
+          - pages/concepts.qmd
+          - pages/diagrams.qmd
+          - pages/workflow.qmd
+          - pages/notation.qmd
       - text: "🔥 Telling Stories with Data"
         menu:
           - text: "📖 Book Website"
@@ -146,28 +149,7 @@ website:
             href: https://tellingstorieswithdata.com/25-datasheet.html
           - text: "Appendix -- Production"
             href: https://tellingstorieswithdata.com/28-deploy.html
-      - text: "Cheatsheets"
-        menu: 
-          - pages/concepts.qmd
-          - pages/diagrams.qmd
-          - pages/workflow.qmd
-          # - pages/notation.qmd
     right:
-      - text: "Campus Resources"
-        menu:
-          - text: Student Wellness and Counselling Centre
-            href: https://www.mun.ca/studentwellness/
-          - text: Accessibility Services
-            href: https://www.mun.ca/munup/academic-success-centre/learning-supports/accessibility-services/
-          - text: Academic Success Centre
-            href: https://www.mun.ca/munup/academic-success-centre/
-          - text: Learning Skills Resources
-            href: https://www.mun.ca/munup/academic-success-centre/learning-skills-resources/
-          - text: Writing Centre
-            href: https://www.mun.ca/munup/academic-success-centre/learning-supports/writing-and-research/
-        # href: pages/resources.qmd
-      - text: "Code of Conduct"
-        href: pages/code-of-conduct.qmd
       - text: "**CC BY-SA**"
         href: https://creativecommons.org/licenses/by-sa/4.0/deed.en
       - icon: github
@@ -176,65 +158,68 @@ website:
     style: "floating"
     search: true
     contents:
-      - section: "<strong>DAY BY DAY</strong>"
+      - text: "<strong>COMPUTING</strong>"
+        href: pages/computing.qmd
+      - section: "<strong>NOTES & MATERIALS</strong>"
         contents:
-          - text: "Tuesday, January 7"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, January 9"
-            href: https://www.johnmclevey.com
-          - text: "Tuesday, January 14"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, January 16"
-            href: https://www.johnmclevey.com
-          - text: "Tuesday, January 21"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, January 23"
-            href: https://www.johnmclevey.com
-          - text: "Tuesday, January 28"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, January 30"
-            href: https://www.johnmclevey.com
-          - text: "Tuesday, February 4"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, February 6"
-            href: https://www.johnmclevey.com
-          - text: "Tuesday, February 11"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, February 13"
-            href: https://www.johnmclevey.com
-          - text: "Tuesday, February 18"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, February 20"
-            href: https://www.johnmclevey.com
-          - text: "<strong>Winter Break!</strong>"
-          # - text: "Tuesday, February 25"
-          #   href: https://www.johnmclevey.com
-          # - text: "Thursday, February 27"
-          #   href: https://www.johnmclevey.com
-          - text: "Tuesday, March 4"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, March 6"
-            href: https://www.johnmclevey.com
-          - text: "Tuesday, March 11"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, March 13"
-            href: https://www.johnmclevey.com
-          - text: "Tuesday, March 18"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, March 20"
-            href: https://www.johnmclevey.com
-          - text: "Tuesday, March 25"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, March 27"
-            href: https://www.johnmclevey.com
-          - text: "Tuesday, April 1"
-            href: https://www.johnmclevey.com
-          - text: "Thursday, April 3"
-            href: https://www.johnmclevey.com
-          - text: "Tuesday, April 8"
-            href: https://www.johnmclevey.com
-
-
+          - text: "Class 01. Tues Jan 07"
+            href: pages/class-01.qmd
+          - text: "Class 02. Thur Jan 09"
+            href: pages/class-02.qmd
+          - text: "Class 03. Tues Jan 14"
+            href: pages/class-03.qmd
+          - text: "Class 04. Thur Jan 16"
+            href: pages/class-04.qmd
+          - text: "Class 05. Tues Jan 21"
+            href: pages/class-05.qmd
+          - text: "Class 06. Thur Jan 23"
+            href: pages/class-06.qmd
+          - text: "Class 07. Tues Jan 28"
+            href: pages/class-07.qmd
+          - text: "Class 08. Thur Jan 30"
+            href: pages/class-08.qmd
+          - text: "Class 09. Tues Feb 04"
+            href: pages/class-09.qmd
+          - text: "Class 10. Thur Feb 06"
+            href: pages/class-10.qmd
+          - text: "Class 11. Tues Feb 11"
+            href: pages/class-11.qmd
+          - text: "Class 12. Thur Feb 13"
+            href: pages/class-12.qmd
+          - text: "Class 13. Tues Feb 18"
+            href: pages/class-13.qmd
+          - text: "Class 14. Thur Feb 20"
+            href: pages/class-14.qmd
+          - text: "Winter Break (Feb 23 - Mar 03)"
+          # WINTER BREAK RUNS FEB 23 - MAR 03 
+          - text: "Class 15. Tues Mar 04"
+            href: pages/class-15.qmd
+          - text: "Class 16. Thur Mar 06"
+            href: pages/class-16.qmd
+          - text: "Class 17. Tues Mar 11"
+            href: pages/class-17.qmd
+          - text: "Class 18. Thur Mar 13"
+            href: pages/class-18.qmd
+          - text: "Class 19. Tues Mar 18"
+            href: pages/class-19.qmd
+          - text: "Class 20. Thur Mar 20"
+            href: pages/class-20.qmd
+          - text: "Class 21. Tues Mar 25"
+            href: pages/class-21.qmd
+          - text: "Class 22. Thur Mar 27"
+            href: pages/class-22.qmd
+          - text: "Class 23. Tues Apr 01"
+            href: pages/class-23.qmd
+          - text: "Class 24. Thur Apr 03"
+            href: pages/class-24.qmd
+          - text: "Class 25. Tues Apr 08"
+            href: pages/class-25.qmd
+      - text: Student Wellness and Counselling Centre
+        href: https://www.mun.ca/studentwellness/
+      - text: Academic Success Centre
+        href: https://www.mun.ca/munup/academic-success-centre/
+      - text: Accessibility Services
+        href: https://www.mun.ca/munup/academic-success-centre/learning-supports/accessibility-services/
 
 format:
   html:

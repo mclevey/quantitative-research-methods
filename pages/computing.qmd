@@ -1,0 +1,14 @@
+---
+title: Computing
+---
+
+## R & RStudio or Positron/VS Code
+
+## Quarto
+
+## Git
+
+# Accounts & API Keys
+
+- GitHub
+- Posit Cloud (Optional)

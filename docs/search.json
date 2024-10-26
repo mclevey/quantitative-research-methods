@@ -18,7 +18,7 @@
     "href": "pages/syllabus.html#accounts-and-api-keys",
     "title": "Quantitative Research Methods",
     "section": "Accounts and API Keys",
-    "text": "Accounts and API Keys\nYou’ll need to sign up for a free GitHub account. You’ll also need to request free API Keys from a variety of websites and services throughout the course, all of which are listed here. I will provide detailed instructions in class and in the lab assignment each time."
+    "text": "Accounts and API Keys\nYou’ll need to sign up for a free GitHub account. You’ll also need to request free API Keys from a variety of websites and services throughout the course, all of which are listed in Accounts & API Keys. I will provide detailed instructions in class and in the lab assignment each time."
   },
   {
     "objectID": "pages/syllabus.html#course-policies",
@@ -46,112 +46,82 @@
     "href": "pages/workflow.html",
     "title": "Workflow",
     "section": "",
-    "text": "Workflow refers to a structured, step-by-step process for conducting research from start (e.g., planning) to finish (e.g., communicating). Formal workflows offer significant benefits, such as making it easier to conduct trustworthy and reproducible research. In Telling Stories with Data, Rohan Alexander (2023) introduces a straightforward workflow that begins with planning the analysis, simulating data, acquiring real data, and then exploring and analyzing it, and finally sharing the results. This workflow, shown in Figure 1, encourages us to think critically at each stage of the process, and to focus on reproducibility, research ethics, and effective communication.\nflowchart LR\n    p[[Plan]]\n    sim[[Simulate]]\n    a[[Acquire]]\n    e[[Explore / Analyze]]\n    s[[Share]]\n\n    p --&gt; sim --&gt; a --&gt; e --&gt; s\n\n\n\n\nFigure 1: Rohan Alexander’s (2023) workflow from Telling Stories with Data.",
-    "crumbs": [
-      "Syllabus",
-      "<strong>Cheatsheets</strong>",
-      "Workflow"
-    ]
+    "text": "Workflow refers to a structured, step-by-step process for conducting research from start (e.g., planning) to finish (e.g., communicating). Formal workflows offer significant benefits, such as making it easier to conduct trustworthy and reproducible research. In Telling Stories with Data, Rohan Alexander (2023) introduces a straightforward workflow that begins with planning the analysis, simulating data, acquiring real data, and then exploring and analyzing it, and finally sharing the results. This workflow, shown in Figure 1, encourages us to think critically at each stage of the process, and to focus on reproducibility, research ethics, and effective communication.\nflowchart LR\n    p[[Plan]]\n    sim[[Simulate]]\n    a[[Acquire]]\n    e[[Explore / Analyze]]\n    s[[Share]]\n\n    p --&gt; sim --&gt; a --&gt; e --&gt; s\n\n\n\n\nFigure 1: Rohan Alexander’s (2023) workflow from Telling Stories with Data."
   },
   {
     "objectID": "pages/workflow.html#plan",
     "href": "pages/workflow.html#plan",
     "title": "Workflow",
     "section": "1. Plan",
-    "text": "1. Plan",
-    "crumbs": [
-      "Syllabus",
-      "<strong>Cheatsheets</strong>",
-      "Workflow"
-    ]
+    "text": "1. Plan"
   },
   {
     "objectID": "pages/workflow.html#simulate",
     "href": "pages/workflow.html#simulate",
     "title": "Workflow",
     "section": "2. Simulate",
-    "text": "2. Simulate",
-    "crumbs": [
-      "Syllabus",
-      "<strong>Cheatsheets</strong>",
-      "Workflow"
-    ]
+    "text": "2. Simulate"
   },
   {
     "objectID": "pages/workflow.html#acquire",
     "href": "pages/workflow.html#acquire",
     "title": "Workflow",
     "section": "3. Acquire",
-    "text": "3. Acquire",
-    "crumbs": [
-      "Syllabus",
-      "<strong>Cheatsheets</strong>",
-      "Workflow"
-    ]
+    "text": "3. Acquire"
   },
   {
     "objectID": "pages/workflow.html#explore-analyze",
     "href": "pages/workflow.html#explore-analyze",
     "title": "Workflow",
     "section": "4. Explore / Analyze",
-    "text": "4. Explore / Analyze",
-    "crumbs": [
-      "Syllabus",
-      "<strong>Cheatsheets</strong>",
-      "Workflow"
-    ]
+    "text": "4. Explore / Analyze"
   },
   {
     "objectID": "pages/workflow.html#share",
     "href": "pages/workflow.html#share",
     "title": "Workflow",
     "section": "5. Share",
-    "text": "5. Share",
-    "crumbs": [
-      "Syllabus",
-      "<strong>Cheatsheets</strong>",
-      "Workflow"
-    ]
+    "text": "5. Share"
   },
   {
-    "objectID": "slides/slides-week-11.html#this-week",
-    "href": "slides/slides-week-11.html#this-week",
-    "title": "Generalized Linear Models",
+    "objectID": "slides/deck-11.html#this-week",
+    "href": "slides/deck-11.html#this-week",
+    "title": "11. APIs, Scraping, and Parsing",
     "section": "this week…",
     "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "slides/slides-week-09.html#this-week",
-    "href": "slides/slides-week-09.html#this-week",
-    "title": "Exploratory Data Analysis",
+    "objectID": "slides/deck-09.html#this-week",
+    "href": "slides/deck-09.html#this-week",
+    "title": "09. Measurement, Censuses, and Sampling",
     "section": "this week…",
     "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "slides/slides-week-07.html#this-week",
-    "href": "slides/slides-week-07.html#this-week",
-    "title": "Experiments and Surveys",
+    "objectID": "slides/deck-07.html#this-week",
+    "href": "slides/deck-07.html#this-week",
+    "title": "07. Graphs, tables, and maps",
     "section": "this week…",
     "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "slides/slides-week-05.html#this-week",
-    "href": "slides/slides-week-05.html#this-week",
-    "title": "Measurement and Sampling",
+    "objectID": "slides/deck-05.html#this-week",
+    "href": "slides/deck-05.html#this-week",
+    "title": "05. Reproducible Workflows",
     "section": "this week…",
     "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "slides/slides-week-03.html#this-week",
-    "href": "slides/slides-week-03.html#this-week",
-    "title": "Reproducible Workflows",
+    "objectID": "slides/deck-03.html#this-week",
+    "href": "slides/deck-03.html#this-week",
+    "title": "03. Drinking from a Firehose",
     "section": "this week…",
     "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "slides/slides-week-01.html#this-week",
-    "href": "slides/slides-week-01.html#this-week",
-    "title": "Telling Stories with Data",
+    "objectID": "slides/deck-01.html#this-week",
+    "href": "slides/deck-01.html#this-week",
+    "title": "01. Telling Stories with Data",
     "section": "this week…",
     "text": "this week…\n\nCourse Overview\nTelling Stories with Data\n(Lab) Setup\n\nAlexander (2023)"
   },
@@ -160,61 +130,98 @@
     "href": "pages/lecture-11.html",
     "title": "Week 11 – Generalized Linear Models",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 13 Generalized linear models\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Lecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 13 Generalized linear models\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/lecture-09.html",
     "href": "pages/lecture-09.html",
     "title": "Week 09 – Exploratory Data Analysis",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 11 Exploratory data analysis\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Lecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 11 Exploratory data analysis\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/lecture-07.html",
     "href": "pages/lecture-07.html",
     "title": "Week 07 – Experiments and Surveys",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 8 Experiments and surveys\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Lecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 8 Experiments and surveys\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/lecture-05.html",
     "href": "pages/lecture-05.html",
     "title": "Week 05 – Measurement and Sampling",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 6 Measurement, censuses, and sampling\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Lecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 6 Measurement, censuses, and sampling\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/lecture-03.html",
     "href": "pages/lecture-03.html",
     "title": "Week 03 – Reproducible Workflows",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 3 Reproducible workflows\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Lecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 3 Reproducible workflows\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/lecture-01.html",
     "href": "pages/lecture-01.html",
     "title": "Week 01 – Telling Stories with Data",
     "section": "",
-    "text": "Alexander (2023)\n\n\n\n\n\n\nLecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\n\nPrepare for class\nComplete reading assignment Ch. 1 Telling Stories with Data\n\n\n\n\nStart the lab assignment Lab 01\n\n\n\nOptional\nFlip through slides, skim lecture notesLecture 01 Slides\n\n\n\nIn class\nWork on the lab assignment\n\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Alexander (2023)\n\n\n\n\n\n\nLecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\n\nPrepare for class\nComplete reading assignment Ch. 1 Telling Stories with Data\n\n\n\n\nStart the lab assignment Lab 01\n\n\n\nOptional\nFlip through slides, skim lecture notesLecture 01 Slides\n\n\n\nIn class\nWork on the lab assignment\n\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+  },
+  {
+    "objectID": "pages/lab-11.html",
+    "href": "pages/lab-11.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "pages/lab-09.html",
+    "href": "pages/lab-09.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "pages/lab-07.html",
+    "href": "pages/lab-07.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "pages/lab-05.html",
+    "href": "pages/lab-05.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "pages/lab-03.html",
+    "href": "pages/lab-03.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "pages/lab-01.html",
+    "href": "pages/lab-01.html",
+    "title": "Class 01 – Telling Stories with Data",
+    "section": "",
+    "text": "Alexander (2023)\n\n\n\n\n\n\nLearning Objectives\n\n\n\nIn this lab, you will:\n\nIn progress…\nComing soon…\n🔥\n\n\n\n\n🤔 Part 1: Think\n\n\n🤘 Part 2: Do\n\n\n👋 Part 3: Debrief\n\n\n\n\n\n\n\n\n\n✅ Submit Your Lab!\n\nWhen you are finished, submit your lab by (details coming soon…).\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/diagrams.html",
     "href": "pages/diagrams.html",
     "title": "Diagrams",
     "section": "",
-    "text": "Coming soon…",
-    "crumbs": [
-      "Syllabus",
-      "<strong>Cheatsheets</strong>",
-      "Diagrams"
-    ]
+    "text": "Coming soon…"
   },
   {
-    "objectID": "labs/lab-02.html",
-    "href": "labs/lab-02.html",
-    "title": "Drinking from a Firehose",
+    "objectID": "pages/lab-instructions.html",
+    "href": "pages/lab-instructions.html",
+    "title": "Lab Instructions",
     "section": "",
-    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+    "text": "SOCI 3040\n\nLab Instructions\nThe labs in this course are organized into three thematic sections: Think, Do, and Debrief.\n\n🤔 Think consists of open-ended questions designed to spark reflection, critical and creative thinking, design thinking, and problem-solving.\n🤘 Do consists of practical tasks and research problems that build essential quantitative research skills, such as installing and using research software, planning analyses, simulating or processing data, creating graphs, fitting statistical models, and interpreting results.\n👋 Debrief contains prompts to encourage metacognition and growth by providing opportunities to assess your learning, share insights, and discuss challenges and breakthroughs with your lab group.\n\nI recommend that you start working on each lab a day (or two) before the lab session. Follow the instructions as best as you can and complete as much as possible. If you encounter any difficulties, make note of them. We will address them during the next class or lab session.\nThe content in this course is challenging for everyone at first, so feeling confused or frustrated is entirely normal. 😮‍💨 Our active learning approach might amplify these feelings by highlighting things we haven’t yet mastered. Though it can feel uncomfortable, this is a natural and valuable part of learning. Discomfort is useful feedback that tells us where we need to focus our efforts to learn more deeply and durably [@brown2014make; @sloman2018knowledge; @zakrajsek2022new]. Take a deep breath, and if needed, stretch or move around. Remember, I’m here to help you learn, and so are your peers. You’ve got this! ✌️\n…"
   },
   {
     "objectID": "pages/code-of-conduct.html#introduction",
@@ -273,60 +280,102 @@
     "text": "Coming soon…"
   },
   {
+    "objectID": "pages/lab-02.html",
+    "href": "pages/lab-02.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "pages/lab-04.html",
+    "href": "pages/lab-04.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "pages/lab-06.html",
+    "href": "pages/lab-06.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "pages/lab-08.html",
+    "href": "pages/lab-08.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "pages/lab-10.html",
+    "href": "pages/lab-10.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
+    "objectID": "pages/lab-12.html",
+    "href": "pages/lab-12.html",
+    "title": "Drinking from a Firehose",
+    "section": "",
+    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+  },
+  {
     "objectID": "pages/lecture-02.html",
     "href": "pages/lecture-02.html",
     "title": "Week 02 – Drinking from a Firehose",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 2 Drinking from a Firehose\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Lecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 2 Drinking from a Firehose\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/lecture-04.html",
     "href": "pages/lecture-04.html",
     "title": "Week 04 – Communication",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 4 Writing research\n\n\n\n\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Lecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 4 Writing research\n\n\n\n\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/lecture-06.html",
     "href": "pages/lecture-06.html",
     "title": "Week 06 – APIs, Scraping, and Parsing",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 7 APIs, Scraping, and Parsing\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Lecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 7 APIs, Scraping, and Parsing\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/lecture-08.html",
     "href": "pages/lecture-08.html",
     "title": "Week 08 – Working with Data",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 9 Clean and prepare\n\n\n\n\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Lecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 9 Clean and prepare\n\n\n\n\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/lecture-10.html",
     "href": "pages/lecture-10.html",
     "title": "Week 10 – Linear Models",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 12 Linear models\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Lecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week XX\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nPrepare for class\nRead Alexander (2023) Ch. 12 Linear models\n\n\n\nStart the lab assignment\n\n\nOptional\nFlip through slides, skim lecture notes\n\n\nIn class\nWork on the lab assignment\n\n\nAfter class\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/lecture-12.html",
     "href": "pages/lecture-12.html",
     "title": "Week 12 – Multilevel Models",
     "section": "",
-    "text": "Lecture Learning Objectives\n\n\n\nBy the end of this module, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week 12\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nBefore class on Tuesday\nRead Alexander (2023) Multilevel regression with post-stratification\n\n\nBefore lab on Thursday\nStart the lab assignment\n\n\n\nOptional: Flip through the lecture slides, skim the lecture notes\n\n\nIn lab on Thursday\nWork on the lab assignment\n\n\nAfter lab on Thursday\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "text": "Lecture Learning Objectives\n\n\n\nUpon completing this material, students should be able to:\n\nComing\nsoon…\n\n\n\n\n\n\n\nTable 1: Class and Lab Schedule for Week 12\n\n\n\n\n\n\n\n\n\nWhen\nWhat\n\n\n\n\nBefore class on Tuesday\nRead Alexander (2023) Multilevel regression with post-stratification\n\n\nBefore lab on Thursday\nStart the lab assignment\n\n\n\nOptional: Flip through the lecture slides, skim the lecture notes\n\n\nIn lab on Thursday\nWork on the lab assignment\n\n\nAfter lab on Thursday\nSubmit the lab assignment\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nLecture Notes\n\n\n\n\n\n\n\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
   },
   {
     "objectID": "pages/resources.html",
     "href": "pages/resources.html",
     "title": "Additional Resources",
     "section": "",
-    "text": "Causal Inference in R\nStatistical Rethinking\nGelman, Hill, and Vehtari (2021) Regression and Other Stories\nDoing Bayesian Data Analysis\nData Visualization\nRoger Peng’s R Programming for Data Science"
+    "text": "Causal Inference in R\nStatistical Rethinking\nGelman, Hill, and Vehtari (2021) Regression and Other Stories\nDoing Bayesian Data Analysis\nData Visualization\nHadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund R for Data Science (2^nd Edition)\nRoger Peng’s R Programming for Data Science"
   },
   {
     "objectID": "pages/resources.html#books",
     "href": "pages/resources.html#books",
     "title": "Additional Resources",
     "section": "",
-    "text": "Causal Inference in R\nStatistical Rethinking\nGelman, Hill, and Vehtari (2021) Regression and Other Stories\nDoing Bayesian Data Analysis\nData Visualization\nRoger Peng’s R Programming for Data Science"
+    "text": "Causal Inference in R\nStatistical Rethinking\nGelman, Hill, and Vehtari (2021) Regression and Other Stories\nDoing Bayesian Data Analysis\nData Visualization\nHadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund R for Data Science (2^nd Edition)\nRoger Peng’s R Programming for Data Science"
   },
   {
     "objectID": "pages/resources.html#other-open-course-materials",
@@ -343,44 +392,44 @@
     "text": "Podcasts"
   },
   {
-    "objectID": "slides/slides-week-02.html#this-week",
-    "href": "slides/slides-week-02.html#this-week",
-    "title": "Drinking from a Firehose",
+    "objectID": "slides/deck-02.html#this-week",
+    "href": "slides/deck-02.html#this-week",
+    "title": "02. Drinking from a Firehose",
     "section": "this week…",
     "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "slides/slides-week-04.html#this-week",
-    "href": "slides/slides-week-04.html#this-week",
-    "title": "Communication",
+    "objectID": "slides/deck-04.html#this-week",
+    "href": "slides/deck-04.html#this-week",
+    "title": "04. Reproducible Workflows",
     "section": "this week…",
     "text": "this week…\n\nWriting Research\nGraphs, Tables, & Maps"
   },
   {
-    "objectID": "slides/slides-week-06.html#this-week",
-    "href": "slides/slides-week-06.html#this-week",
-    "title": "APIs, Scraping, and Parsing",
+    "objectID": "slides/deck-06.html#this-week",
+    "href": "slides/deck-06.html#this-week",
+    "title": "06. Writing Research",
     "section": "this week…",
     "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "slides/slides-week-08.html#this-week",
-    "href": "slides/slides-week-08.html#this-week",
-    "title": "Working with Data",
+    "objectID": "slides/deck-08.html#this-week",
+    "href": "slides/deck-08.html#this-week",
+    "title": "08. Measurement, Censuses, and Sampling",
     "section": "this week…",
     "text": "this week…\n\nClean and Prepare\nStore and Share"
   },
   {
-    "objectID": "slides/slides-week-10.html#this-week",
-    "href": "slides/slides-week-10.html#this-week",
-    "title": "Linear Models",
+    "objectID": "slides/deck-10.html#this-week",
+    "href": "slides/deck-10.html#this-week",
+    "title": "10. APIs, Scraping, and Parsing",
     "section": "this week…",
     "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "slides/slides-week-12.html#this-week",
-    "href": "slides/slides-week-12.html#this-week",
-    "title": "Multilevel Models",
+    "objectID": "slides/deck-12.html#this-week",
+    "href": "slides/deck-12.html#this-week",
+    "title": "12. Experiments and Surveys",
     "section": "this week…",
     "text": "this week…\n\npart 1\npart 2\npart 3"
   },
@@ -406,87 +455,529 @@
     "text": "Land Acknowledgement\n\nWe acknowledge that the lands on which Memorial University’s campuses are situated are in the traditional territories of diverse Indigenous groups, and we acknowledge with respect the diverse histories and cultures of the Beothuk, Mi’kmaq, Innu, and Inuit of this province."
   },
   {
-    "objectID": "labs/lab-12.html",
-    "href": "labs/lab-12.html",
+    "objectID": "pages/class-12.html",
+    "href": "pages/class-12.html",
+    "title": "Class 12 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Thur Feb 13"
+    ]
+  },
+  {
+    "objectID": "pages/class-10.html",
+    "href": "pages/class-10.html",
+    "title": "Class 10 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Thur Feb 06"
+    ]
+  },
+  {
+    "objectID": "pages/class-08.html",
+    "href": "pages/class-08.html",
+    "title": "Class 08 –",
+    "section": "",
+    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA\n\n\n\n\n\n\n\n\n🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Thur Jan 30"
+    ]
+  },
+  {
+    "objectID": "pages/class-06.html",
+    "href": "pages/class-06.html",
+    "title": "Class 06 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Thur Jan 23"
+    ]
+  },
+  {
+    "objectID": "pages/class-04.html",
+    "href": "pages/class-04.html",
+    "title": "Class 04 –",
+    "section": "",
+    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA\n\n\n\n\n\n\n\n\n🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>NOTES & MATERIALS</strong>",
+      "04. Thur Jan 16"
+    ]
+  },
+  {
+    "objectID": "pages/class-02.html",
+    "href": "pages/class-02.html",
+    "title": "Class 02 – Telling Stories with Data",
+    "section": "",
+    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA\n\n\n\n\n\n\n\n\n🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Thur Jan 09"
+    ]
+  },
+  {
+    "objectID": "pages/class-01.html",
+    "href": "pages/class-01.html",
+    "title": "Class 01 – Introduction",
+    "section": "",
+    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA\n\n\n\n\n\n\n\n\n🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025. - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>NOTES & MATERIALS</strong>",
+      "01. Tues Jan 07"
+    ]
+  },
+  {
+    "objectID": "pages/class-03.html",
+    "href": "pages/class-03.html",
+    "title": "Class 03 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Tues Jan 14"
+    ]
+  },
+  {
+    "objectID": "pages/class-05.html",
+    "href": "pages/class-05.html",
+    "title": "Class 05 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Tues Jan 21"
+    ]
+  },
+  {
+    "objectID": "pages/class-07.html",
+    "href": "pages/class-07.html",
+    "title": "Class 07 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Tues Jan 28"
+    ]
+  },
+  {
+    "objectID": "pages/class-09.html",
+    "href": "pages/class-09.html",
+    "title": "Class 09 –",
+    "section": "",
+    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA\n\n\n\n\n\n\n\n\n🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Tues Feb 04"
+    ]
+  },
+  {
+    "objectID": "pages/class-11.html",
+    "href": "pages/class-11.html",
+    "title": "Class 11 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Tues Feb 11"
+    ]
+  },
+  {
+    "objectID": "pages/class-13.html",
+    "href": "pages/class-13.html",
+    "title": "Class 13 –",
+    "section": "",
+    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA\n\n\n\n\n\n\n\n\n🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>NOTES & MATERIALS</strong>",
+      "13. Tues Feb 18"
+    ]
+  },
+  {
+    "objectID": "pages/class-14.html",
+    "href": "pages/class-14.html",
+    "title": "Class 14 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Thur Feb 20"
+    ]
+  },
+  {
+    "objectID": "pages/class-15.html",
+    "href": "pages/class-15.html",
+    "title": "Class 15 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Tues Mar 04"
+    ]
+  },
+  {
+    "objectID": "pages/class-16.html",
+    "href": "pages/class-16.html",
+    "title": "Class 16 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John\n\n\n\n\n\n\n\n\n🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Thur Mar 06"
+    ]
+  },
+  {
+    "objectID": "pages/class-17.html",
+    "href": "pages/class-17.html",
+    "title": "Class 17 –",
+    "section": "",
+    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA\n\n\n\n\n\n\n\n\n🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>NOTES & MATERIALS</strong>",
+      "17. Tues Mar 11"
+    ]
+  },
+  {
+    "objectID": "pages/class-18.html",
+    "href": "pages/class-18.html",
+    "title": "Class 18 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Thur Mar 13"
+    ]
+  },
+  {
+    "objectID": "pages/class-19.html",
+    "href": "pages/class-19.html",
+    "title": "Class 19 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Tues Mar 18"
+    ]
+  },
+  {
+    "objectID": "pages/class-20.html",
+    "href": "pages/class-20.html",
+    "title": "Class 20 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Thur Mar 20"
+    ]
+  },
+  {
+    "objectID": "pages/class-21.html",
+    "href": "pages/class-21.html",
+    "title": "Class 21 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Tues Mar 25"
+    ]
+  },
+  {
+    "objectID": "pages/class-22.html",
+    "href": "pages/class-22.html",
+    "title": "Class 22 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Thur Mar 27"
+    ]
+  },
+  {
+    "objectID": "pages/class-23.html",
+    "href": "pages/class-23.html",
+    "title": "Class 23 –",
+    "section": "",
+    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA\n\n\n\n\n\n\n\n\n🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>NOTES & MATERIALS</strong>",
+      "23. Tues Apr 01"
+    ]
+  },
+  {
+    "objectID": "pages/class-24.html",
+    "href": "pages/class-24.html",
+    "title": "Class 24 –",
+    "section": "",
+    "text": "🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>3040, DAY BY DAY</strong>",
+      "Thur Apr 03"
+    ]
+  },
+  {
+    "objectID": "pages/class-25.html",
+    "href": "pages/class-25.html",
+    "title": "Class 25 –",
+    "section": "",
+    "text": "John McLevey (he/him) Professor, Department of Sociology Memorial University\n\ngithub.com/mclevey john.mclevey@uwaterloo.ca Office Hours: TBA\n\n\n\n\n\n\n\n\n🚧 Under Construction\n\n\n\nI am currently developing these course materials. Please check back in January 2025.  - John",
+    "crumbs": [
+      "Syllabus",
+      "<strong>NOTES & MATERIALS</strong>",
+      "25. Tues Apr 08"
+    ]
+  },
+  {
+    "objectID": "pages/accounts-and-keys.html",
+    "href": "pages/accounts-and-keys.html",
+    "title": "Accounts & API Keys",
+    "section": "",
+    "text": "Coming soon…"
+  },
+  {
+    "objectID": "pages/software.html#quarto",
+    "href": "pages/software.html#quarto",
+    "title": "Computing",
+    "section": "Quarto",
+    "text": "Quarto",
+    "crumbs": [
+      "Syllabus",
+      "<strong>COMPUTING</strong>"
+    ]
+  },
+  {
+    "objectID": "pages/software.html#git",
+    "href": "pages/software.html#git",
+    "title": "Computing",
+    "section": "Git",
+    "text": "Git",
+    "crumbs": [
+      "Syllabus",
+      "<strong>COMPUTING</strong>"
+    ]
+  },
+  {
+    "objectID": "pages/computing.html#quarto",
+    "href": "pages/computing.html#quarto",
+    "title": "Computing",
+    "section": "Quarto",
+    "text": "Quarto",
+    "crumbs": [
+      "Syllabus",
+      "<strong>COMPUTING</strong>"
+    ]
+  },
+  {
+    "objectID": "pages/computing.html#git",
+    "href": "pages/computing.html#git",
+    "title": "Computing",
+    "section": "Git",
+    "text": "Git",
+    "crumbs": [
+      "Syllabus",
+      "<strong>COMPUTING</strong>"
+    ]
+  },
+  {
+    "objectID": "slides/deck-12.html#this-week",
+    "href": "slides/deck-12.html#this-week",
+    "title": "Multilevel Models",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/deck-10.html#this-week",
+    "href": "slides/deck-10.html#this-week",
+    "title": "Linear Models",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/deck-08.html#this-week",
+    "href": "slides/deck-08.html#this-week",
+    "title": "Working with Data",
+    "section": "this week…",
+    "text": "this week…\n\nClean and Prepare\nStore and Share"
+  },
+  {
+    "objectID": "slides/deck-06.html#this-week",
+    "href": "slides/deck-06.html#this-week",
+    "title": "APIs, Scraping, and Parsing",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/deck-04.html#this-week",
+    "href": "slides/deck-04.html#this-week",
+    "title": "Communication",
+    "section": "this week…",
+    "text": "this week…\n\nWriting Research\nGraphs, Tables, & Maps"
+  },
+  {
+    "objectID": "slides/deck-02.html#this-week",
+    "href": "slides/deck-02.html#this-week",
     "title": "Drinking from a Firehose",
-    "section": "",
-    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "labs/lab-10.html",
-    "href": "labs/lab-10.html",
-    "title": "Drinking from a Firehose",
-    "section": "",
-    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+    "objectID": "slides/deck-01.html#this-week",
+    "href": "slides/deck-01.html#this-week",
+    "title": "Telling Stories with Data",
+    "section": "this week…",
+    "text": "this week…\n\nCourse Overview\nTelling Stories with Data\n(Lab) Setup\n\nAlexander (2023)"
   },
   {
-    "objectID": "labs/lab-08.html",
-    "href": "labs/lab-08.html",
-    "title": "Drinking from a Firehose",
-    "section": "",
-    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+    "objectID": "slides/deck-03.html#this-week",
+    "href": "slides/deck-03.html#this-week",
+    "title": "Reproducible Workflows",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "labs/lab-06.html",
-    "href": "labs/lab-06.html",
-    "title": "Drinking from a Firehose",
-    "section": "",
-    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+    "objectID": "slides/deck-05.html#this-week",
+    "href": "slides/deck-05.html#this-week",
+    "title": "Measurement and Sampling",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "labs/lab-04.html",
-    "href": "labs/lab-04.html",
-    "title": "Drinking from a Firehose",
-    "section": "",
-    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+    "objectID": "slides/deck-07.html#this-week",
+    "href": "slides/deck-07.html#this-week",
+    "title": "Experiments and Surveys",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "labs/instructions.html",
-    "href": "labs/instructions.html",
-    "title": "SOCI 3040 Lab Instructions",
-    "section": "",
-    "text": "SOCI 3040 Lab Instructions\nThe labs in this course are organized into three thematic sections: Think, Do, and Debrief.\n\n🤔 Think consists of open-ended questions designed to spark reflection, critical and creative thinking, design thinking, and problem-solving.\n🤘 Do consists of practical tasks and research problems that build essential quantitative research skills, such as installing and using research software, planning analyses, simulating or processing data, creating graphs, fitting statistical models, and interpreting results.\n👋 Debrief contains prompts to encourage metacognition and growth by providing opportunities to assess your learning, share insights, and discuss challenges and breakthroughs with your lab group.\n\nI recommend that you start working on each lab a day (or two) before the lab session. Follow the instructions as best as you can and complete as much as possible. If you encounter any difficulties, make note of them. We will address them during the next class or lab session.\nThe content in this course is challenging for everyone at first, so feeling confused or frustrated is entirely normal. 😮‍💨 Our active learning approach might amplify these feelings by highlighting things we haven’t yet mastered. Though it can feel uncomfortable, this is a natural and valuable part of learning. Discomfort is useful feedback that tells us where we need to focus our efforts to learn more deeply and durably [@brown2014make; @sloman2018knowledge; @zakrajsek2022new]. Take a deep breath, and if needed, stretch or move around. Remember, I’m here to help you learn, and so are your peers. You’ve got this! ✌️\n…"
+    "objectID": "slides/deck-09.html#this-week",
+    "href": "slides/deck-09.html#this-week",
+    "title": "Exploratory Data Analysis",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "labs/lab-01.html",
-    "href": "labs/lab-01.html",
-    "title": "Week 01 – Telling Stories with Data",
-    "section": "",
-    "text": "Alexander (2023)\n\n\n\n\n\n\nLearning Objectives\n\n\n\nIn this lab, you will:\n\nIn progress…\nComing soon…\n🔥\n\n\n\n\n🤔 Part 1: Think\n\n\n🤘 Part 2: Do\n\n\n👋 Part 3: Debrief\n\n\n\n\n\n\n\n\n\n✅ Submit Your Lab!\n\nWhen you are finished, submit your lab by (details coming soon…).\n\nReferences\n\nAlexander, Rohan. 2023. Telling Stories with Data: With Applications in R. Chapman; Hall/CRC."
+    "objectID": "slides/deck-11.html#this-week",
+    "href": "slides/deck-11.html#this-week",
+    "title": "Generalized Linear Models",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "labs/lab-03.html",
-    "href": "labs/lab-03.html",
-    "title": "Drinking from a Firehose",
-    "section": "",
-    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+    "objectID": "slides/deck-25.html#this-week",
+    "href": "slides/deck-25.html#this-week",
+    "title": "25. Multilevel Regression with Post-stratification",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "labs/lab-05.html",
-    "href": "labs/lab-05.html",
-    "title": "Drinking from a Firehose",
-    "section": "",
-    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+    "objectID": "slides/deck-23.html#this-week",
+    "href": "slides/deck-23.html#this-week",
+    "title": "Multilevel Models",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "labs/lab-07.html",
-    "href": "labs/lab-07.html",
-    "title": "Drinking from a Firehose",
-    "section": "",
-    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+    "objectID": "slides/deck-21.html#this-week",
+    "href": "slides/deck-21.html#this-week",
+    "title": "21. Generalized Linear Models (GLMs)",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "labs/lab-09.html",
-    "href": "labs/lab-09.html",
-    "title": "Drinking from a Firehose",
-    "section": "",
-    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+    "objectID": "slides/deck-19.html#this-week",
+    "href": "slides/deck-19.html#this-week",
+    "title": "19. Linear Models",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
   },
   {
-    "objectID": "labs/lab-11.html",
-    "href": "labs/lab-11.html",
-    "title": "Drinking from a Firehose",
-    "section": "",
-    "text": "Coming soon…\n\n\n\nReuseCC BY-SA 4.0"
+    "objectID": "slides/deck-17.html#this-week",
+    "href": "slides/deck-17.html#this-week",
+    "title": "17. Exploratory Data Analysis (EDA)",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/deck-15.html#this-week",
+    "href": "slides/deck-15.html#this-week",
+    "title": "15. Clean & Prepare Data",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/deck-13.html#this-week",
+    "href": "slides/deck-13.html#this-week",
+    "title": "13. Experiments and Surveys",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/deck-14.html#this-week",
+    "href": "slides/deck-14.html#this-week",
+    "title": "14. Experiments and Surveys",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/deck-16.html#this-week",
+    "href": "slides/deck-16.html#this-week",
+    "title": "16. Store & Share Data",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/deck-18.html#this-week",
+    "href": "slides/deck-18.html#this-week",
+    "title": "18. Exploratory Data Analysis (EDA)",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/deck-20.html#this-week",
+    "href": "slides/deck-20.html#this-week",
+    "title": "20. Linear Models",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/deck-22.html#this-week",
+    "href": "slides/deck-22.html#this-week",
+    "title": "22. Generalized Linear Models (GLMs)",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
+  },
+  {
+    "objectID": "slides/deck-24.html#this-week",
+    "href": "slides/deck-24.html#this-week",
+    "title": "24. Multilevel Models",
+    "section": "this week…",
+    "text": "this week…\n\npart 1\npart 2\npart 3"
   }
 ]

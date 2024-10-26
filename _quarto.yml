@@ -56,18 +56,21 @@ website:
           - pages/lecture-12.qmd
       - text: "Labs"
         menu:
-          - labs/labs.qmd
-          - labs/labs.qmd
-          - labs/labs.qmd
-          - labs/labs.qmd
-          - labs/labs.qmd
-          - labs/labs.qmd
-          - labs/labs.qmd
-          - labs/labs.qmd
-          - labs/labs.qmd
-          - labs/labs.qmd
-          - labs/labs.qmd
-          - labs/labs.qmd
+          - labs/README.md
+          - labs/3040-lab-01/lab-notebook.qmd
+          - text: "Lab 01 -- Telling Stories with Data"
+            href: http://www.johnmclevey.com/3040-lab-01/
+          # - labs/labs.qmd
+          # - labs/labs.qmd
+          # - labs/labs.qmd
+          # - labs/labs.qmd
+          # - labs/labs.qmd
+          # - labs/labs.qmd
+          # - labs/labs.qmd
+          # - labs/labs.qmd
+          # - labs/labs.qmd
+          # - labs/labs.qmd
+          # - labs/labs.qmd
       - text: "Computing"
         menu:
           - text: "R and RStudio"
